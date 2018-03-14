@@ -4,7 +4,7 @@
 
 ## **一、基础篇**
 
-### **1.1、Java基础 **
+### **1.1、Java基础 **
 
 * 面向对象的特征：继承、封装和多态
 
@@ -42,7 +42,7 @@
 
 * 什么是Java序列化和反序列化，如何实现Java序列化？或者请解释Serializable 接口的作用
 
-* Object类中常见的方法，为什么wait  notify会放在Object里边？
+* Object类中常见的方法，为什么wait  notify会放在Object里边？
 
 * Java的平台无关性如何体现出来的
 
@@ -80,7 +80,7 @@
 
 * 看过那些Java集合类的源码
 
-**1.3、进程和线程**
+### **1.3、进程和线程**
 
 * 线程和进程的概念、并行和并发的概念
 
@@ -374,7 +374,7 @@
 
 * 请解释什么是C10K问题或者知道什么是C10K问题吗？
 
-* Nginx简介，可参考《[Nginx简介](http://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247483994&idx=1&sn=b6591f62c7ea6b4adc5a5bf1bf4eac40&chksm=e9c5fbebdeb272fdd865a9c61a380f6b909fc988f99d00ce0aa8c3efca501644db46c40bd4f2&scene=21#wechat_redirect)》  
+* Nginx简介，可参考《[Nginx简介](http://mp.weixin.qq.com/s?__biz=MzI1NDQ3MjQxNA==&mid=2247483994&idx=1&sn=b6591f62c7ea6b4adc5a5bf1bf4eac40&chksm=e9c5fbebdeb272fdd865a9c61a380f6b909fc988f99d00ce0aa8c3efca501644db46c40bd4f2&scene=21#wechat_redirect)》
 
 * 正向代理和反向代理.
 
@@ -515,9 +515,6 @@
 * 说说你认为的架构师是什么样的，架构师主要做什么
 
 * 如何看待加班的问题
-
-  
-
 
 当然，一个完整的面试肯定不止上述的知识点，其他的诸如：Linux、数据结构、算法、逻辑思维题、系统设计题、职业规划等等都会有所涉及！总之，充分的准备是应对一切面试的不二法宝！
 
