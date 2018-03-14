@@ -28,6 +28,20 @@
     * JDK和JRE的区别
     * Java8有哪些新特性
   * 常见集合
+    * List和Set区别
+    * Set和hashCode以及equals方法的联系
+    * List和Map的区别
+    * ArrayList和LinkedList的区别
+    * ArrayList和Vector的区别
+    * HashMap和Hashtable的区别
+    * HashSet和HashMap的区别
+    * HashMap和ConcurrentHashMap的区别
+    * HashMap的工作原理及代码实现，什么时候用到红黑树
+    * 多线程情况下HashMap死循环的问题
+    * HashMap出现Hash DOS攻击的问题
+    * ConcurrentHashMap的工作原理及代码实现，如何统计所有的元素个数
+    * 手写简单的HashMap
+    * 看过哪些Java集合类的源码
   * 进程和线程
   * 锁机制
   * JVM
