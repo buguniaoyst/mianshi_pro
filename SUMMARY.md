@@ -184,7 +184,7 @@
 * 分布式
   * Nginx
     * [请解释什么是10K问题或者知道什么是10K问题吗？](qing-jie-shi-shi-yao-shi-10k-wen-ti-huo-zhe-zhi-dao-shi-yao-shi-10k-wen-ti-ma-ff1f.md)
-    * Nginx简介
+    * [Nginx简介](nginxjian-jie.md)
     * 正向代理和反向代理
     * Nginx几种常见的负载均衡策略
     * Nginx服务器上的Master和Worker进程分别是什么
