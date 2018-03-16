@@ -120,7 +120,7 @@
     * [说说SQL的优化之道](shuo-shuo-sql-de-you-hua-zhi-dao.md)
     * [MySQL遇到的死锁问题，如何排查与解决](mysqlyu-dao-de-si-suo-wen-ti-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * [存储引擎的InnoDB与MyISAM区别，优缺点，使用场景](cun-chu-yin-qing-de-innodb-yu-myisam-qu-bie-ff0c-you-que-dian-ff0c-shi-yong-chang-jing.md)
-    * 索引类别（B+树索引，全文索引，哈希索引），索引的原理
+    * [索引类别（B+树索引，全文索引，哈希索引），索引的原理](suo-yin-lei-bie-ff08-b-shu-suo-yin-ff0c-quan-wen-suo-yin-ff0c-ha-xi-suo-yin-ff09-ff0c-suo-yin-de-yuan-li.md)
     * 什么是自适应哈希索引（AHI）
     * 为什么要用B+tree作为MySQL索引的数据结构
     * 聚集索引与非聚集索引的区别
