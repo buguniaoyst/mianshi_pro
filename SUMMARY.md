@@ -62,7 +62,7 @@
     * [volatile实现原理（禁止指令重排，刷新内存）](volatileshi-xian-yuan-li-ff08-jin-zhi-zhi-ling-zhong-pai-ff0c-shua-xin-nei-cun-ff09.md)
     * [synchronized实现原理（对象监视器）](synchronizedshi-xian-yuan-li-ff08-dui-xiang-jian-shi-qi-ff09.md)
     * [synchronized与lock的区别](synchronizedyu-lock-de-qu-bie.md)
-    * AQS同步队列
+    * [AQS同步队列](aqstong-bu-dui-lie.md)
     * CAS无锁的概念，乐观锁和悲观锁
     * 常见的原子操作类
     * 什么是ABA问题，出现ABA问题JDK是如何解决的
