@@ -19,7 +19,8 @@
     * HTTP请求的GET与POST方式的区别
     * Session与Cookie的区别
     * 列出自己常用的JDK包
-    * MVC设计丝子昂
+    * MVC设计思想
+    * JDBC流程
     * equals与==的区别
     * hashCode和equals方法的区别与联系
     * 什么是Java序列化，如何实现Java序列化？或者请解释Serializable接口的作用
