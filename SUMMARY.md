@@ -112,7 +112,7 @@
     * [explain命令](explainming-ling.md)
     * [left join,right join,inner join](left-joinright-joininner-join.md)
     * [数据库事务ACID（原子性，一致性，隔离性，持久性）](shu-ju-ku-shi-wu-acid-ff08-yuan-zi-xing-ff0c-yi-zhi-xing-ff0c-ge-li-xing-ff0c-chi-jiu-xing-ff09.md)
-    * 脏读，幻读，不可重复读
+    * [脏读，幻读，不可重复读](zang-du-ff0c-huan-du-ff0c-bu-ke-zhong-fu-du.md)
     * 数据库的几大范式
     * 数据库常见的命令
     * 说说分库与分表设计
