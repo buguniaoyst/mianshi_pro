@@ -134,7 +134,7 @@
     * [Redis有哪些数据类型，可参考《Redis常见的5种不同的数据类型详解》](redisyou-na-xie-shu-ju-lei-xing-ff0c-ke-can-kao-300a-redis-chang-jian-de-5-zhong-bu-tong-de-shu-ju-lei-xing-xiang-jie-300b.md)
     * [Redis内部结构](redisnei-bu-jie-gou.md)
     * [Redis使用场景](redisshi-yong-chang-jing.md)
-    * Redis持久化机制，可参考《使用快照和AOF将Redis数据持久化到硬盘中》
+    * [Redis持久化机制，可参考《使用快照和AOF将Redis数据持久化到硬盘中》](redischi-jiu-hua-ji-zhi-ff0c-ke-can-kao-300a-shi-yong-kuai-zhao-he-aof-jiang-redis-shu-ju-chi-jiu-hua-dao-ying-pan-zhong-300b.md)
     * Redis集群方案与实现
     * Redis为什么是单线程的？
     * 缓存雪崩，缓存穿透，缓存预热，缓存更新，缓存降级
