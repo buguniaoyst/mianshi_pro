@@ -176,7 +176,7 @@
     * [Netty线程模型](nettyxian-cheng-mo-xing.md)
     * [说说Netty的零拷贝](shuo-shuo-netty-de-ling-kao-bei.md)
     * [Netty内部执行流程](nettynei-bu-zhi-xing-liu-cheng.md)
-    * Netty重连实现
+    * [Netty重连实现](nettyzhong-lian-shi-xian.md)
   * Tomcat
     * Tomcat的基础架构（Server，Service，Connector，Container）
     * Tomcat如何加载Servlet
