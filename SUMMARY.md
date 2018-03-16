@@ -260,7 +260,7 @@
     * [说说你觉得最有意义的技术书籍](qi-ta/shuo-shuo-ni-jue-de-zui-you-yi-yi-de-ji-zhu-shu-ji.md)
     * [工作之余做什么事情，平时是如何学习的，怎样提升自己的能力](qi-ta/gong-zuo-zhi-yu-zuo-shi-yao-shi-qing-ff0c-ping-shi-shi-ru-he-xue-xi-de-ff0c-zen-yang-ti-sheng-zi-ji-de-neng-li.md)
     * [说说个人发展方向方面的思考](qi-ta/shuo-shuo-ge-ren-fa-zhan-fang-xiang-fang-mian-de-si-kao.md)
-    * 说说你认为的服务端开发工程师应该具备哪些能力
+    * [说说你认为的服务端开发工程师应该具备哪些能力](qi-ta/shuo-shuo-ni-ren-wei-de-fu-wu-duan-kai-fa-gong-cheng-shi-ying-gai-ju-bei-na-xie-neng-li.md)
     * 说说你认为的架构师是什么样的，架构师主要做什么
     * 如何看待加班的问题
     * 说说你所理解的技术专家
