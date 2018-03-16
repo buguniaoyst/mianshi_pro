@@ -85,7 +85,7 @@
   * 设计模式
     * [常见的设计模式](chang-jian-de-she-ji-mo-shi.md)
     * [设计模式的六大原则及含义](she-ji-mo-shi-de-liu-da-yuan-ze-ji-han-yi.md)
-    * 常见的单例模式以及各种实现方式的优缺点，哪一个最好，手写常见的单例模式
+    * [常见的单例模式以及各种实现方式的优缺点，哪一个最好，手写常见的单例模式](chang-jian-de-dan-li-mo-shi-yi-ji-ge-zhong-shi-xian-fang-shi-de-you-que-dian-ff0c-na-yi-ge-zui-hao-ff0c-shou-xie-chang-jian-de-dan-li-mo-shi.md)
     * 设计模式在实际场景中的应用
     * Spring中用到了哪些设计模式
     * MyBatis中用到了哪些设计模式
