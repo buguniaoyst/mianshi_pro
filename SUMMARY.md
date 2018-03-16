@@ -25,7 +25,7 @@
     * [什么是Java序列化，如何实现Java序列化？或者请解释Serializable接口的作用](javaji-chu/shi-yao-shi-java-xu-lie-hua-ff0c-ru-he-shi-xian-java-xu-lie-hua-ff1f-huo-zhe-qing-jie-shi-serializable-jie-kou-de-zuo-yong.md)
     * [Object类中常见的方法，为什么wait notify会放在Object里边？](javaji-chu/objectlei-zhong-chang-jian-de-fang-fa-ff0c-wei-shi-yao-wait-notify-hui-fang-zai-object-li-bian-ff1f.md)
     * [Java的平台无关性如何体现出来](javaji-chu/javade-ping-tai-wu-guan-xing-ru-he-ti-xian-chu-lai.md)
-    * JDK和JRE的区别
+    * [JDK和JRE的区别](javaji-chu/jdkhe-jre-de-qu-bie.md)
     * Java8有哪些新特性
   * 常见集合
     * List和Set区别
