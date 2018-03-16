@@ -118,7 +118,7 @@
     * [说说分库与分表设计](shuo-shuo-fen-ku-yu-fen-biao-she-ji.md)
     * [分库与分表带来的分布式困境与对应之策（如何解决分布式下的分库分表，全局表？）](fen-ku-yu-fen-biao-dai-lai-de-fen-bu-shi-kun-jing-yu-dui-ying-zhi-ce-ff08-ru-he-jie-jue-fen-bu-shi-xia-de-fen-ku-fen-biao-ff0c-quan-ju-biao-ff1f-ff09.md)
     * [说说SQL的优化之道](shuo-shuo-sql-de-you-hua-zhi-dao.md)
-    * MySQL遇到的死锁问题，如何排查与解决
+    * [MySQL遇到的死锁问题，如何排查与解决](mysqlyu-dao-de-si-suo-wen-ti-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * 存储引擎的InnoDB与MyISAM区别，优缺点，使用场景
     * 索引类别（B+树索引，全文索引，哈希索引），索引的原理
     * 什么是自适应哈希索引（AHI）
