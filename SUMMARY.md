@@ -175,7 +175,7 @@
     * [什么是TCP粘包/拆包](shi-yao-shi-tcp-nian-5305-chai-bao.md)
     * [Netty线程模型](nettyxian-cheng-mo-xing.md)
     * [说说Netty的零拷贝](shuo-shuo-netty-de-ling-kao-bei.md)
-    * Netty内部执行流程
+    * [Netty内部执行流程](nettynei-bu-zhi-xing-liu-cheng.md)
     * Netty重连实现
   * Tomcat
     * Tomcat的基础架构（Server，Service，Connector，Container）
