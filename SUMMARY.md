@@ -55,7 +55,7 @@
     * [线程的生命周期，状态是如何转移的](xian-cheng-de-sheng-ming-zhou-qi-ff0c-zhuang-tai-shi-ru-he-zhuan-yi-de.md)
     * 可参考：《Java多线程编程核心技术》
   * 锁机制
-    * 说说线程安全问题，什么是线程安全，如何保证线程安全
+    * [说说线程安全问题，什么是线程安全，如何保证线程安全](shuo-shuo-xian-cheng-an-quan-wen-ti-ff0c-shi-yao-shi-xian-cheng-an-quan-ff0c-ru-he-bao-zheng-xian-cheng-an-quan.md)
     * 重入锁的概念，重入锁为什么可以防止死锁
     * 产生死锁的四个条件（互斥，请求与保持，不剥夺，循环等待）
     * 如何检查死锁（通过jConsole检查死锁）
