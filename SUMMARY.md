@@ -89,7 +89,7 @@
     * [设计模式在实际场景中的应用](she-ji-mo-shi-zai-shi-ji-chang-jing-zhong-de-ying-yong.md)
     * [Spring中用到了哪些设计模式](springzhong-yong-dao-le-na-xie-she-ji-mo-shi.md)
     * [MyBatis中用到了哪些设计模式](mybatiszhong-yong-dao-le-na-xie-she-ji-mo-shi.md)
-    * 你项目中有使用哪些设计模式
+    * [你项目中有使用哪些设计模式](ni-xiang-mu-zhong-you-shi-yong-na-xie-she-ji-mo-shi.md)
     * 说说常用开源框架中设计模式使用分析
     * 动态代理
   * 数据结构
