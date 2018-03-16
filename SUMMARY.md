@@ -224,7 +224,7 @@
     * [说说最终一致性的实现方案](shuo-shuo-zui-zhong-yi-zhi-xing-de-shi-xian-fang-an.md)
     * [微服务与SOA的区别](wei-fu-wu-yu-soa-de-qu-bie.md)
     * [如何拆分服务，水平分割，垂直分割](ru-he-chai-fen-fu-wu-ff0c-shui-ping-fen-ge-ff0c-chui-zhi-fen-ge.md)
-    * 如何应对微服务的链式调用异常
+    * [如何应对微服务的链式调用异常](ru-he-ying-dui-wei-fu-wu-de-lian-shi-diao-yong-yi-chang.md)
     * 如何快速追踪与定位问题
     * 如何保证微服务的安全，认证
   * 安全问题
