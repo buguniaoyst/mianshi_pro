@@ -56,7 +56,7 @@
     * 可参考：《Java多线程编程核心技术》
   * 锁机制
     * [说说线程安全问题，什么是线程安全，如何保证线程安全](shuo-shuo-xian-cheng-an-quan-wen-ti-ff0c-shi-yao-shi-xian-cheng-an-quan-ff0c-ru-he-bao-zheng-xian-cheng-an-quan.md)
-    * 重入锁的概念，重入锁为什么可以防止死锁
+    * [重入锁的概念，重入锁为什么可以防止死锁](zhong-ru-suo-de-gai-nian-ff0c-zhong-ru-suo-wei-shi-yao-ke-yi-fang-zhi-si-suo.md)
     * 产生死锁的四个条件（互斥，请求与保持，不剥夺，循环等待）
     * 如何检查死锁（通过jConsole检查死锁）
     * volatile实现原理（禁止指令重排，刷新内存）
