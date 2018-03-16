@@ -69,9 +69,9 @@
     * [乐观锁的业务场景及实现方式](le-guan-suo-de-ye-wu-chang-jing-ji-shi-xian-fang-shi.md)
     * [Java8并发包下常见的并发类](java8bing-fa-bao-xia-chang-jian-de-bing-fa-lei.md)
     * [偏向锁，轻量级锁，重量级锁，自旋锁的概念](pian-xiang-suo-ff0c-qing-liang-ji-suo-ff0c-zhong-liang-ji-suo-ff0c-zi-xuan-suo-de-gai-nian.md)
-    * 可参考：《Java多线程编程核心技术》
+    * [可参考：《Java多线程编程核心技术》](ke-can-kao-ff1a-300a-java-duo-xian-cheng-bian-cheng-he-xin-ji-zhu-300b.md)
   * JVM
-    * JVM运行时内存区域划分
+    * [JVM运行时内存区域划分](jvmyun-xing-shi-nei-cun-qu-yu-hua-fen.md)
     * 内存溢出OOM和堆栈溢出SOE的示例及原因，如何排查与解决
     * 如何判断对象是否可以回收或存活
     * 常见的GC回收算法及其含义
