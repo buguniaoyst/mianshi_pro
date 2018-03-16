@@ -174,7 +174,7 @@
     * [原生的NIO在JDK1.7版本存在epoll bug](yuansheng-de-nio-zai-jdk1-7-ban-ben-cun-zai-epoll-bug.md)
     * [什么是TCP粘包/拆包](shi-yao-shi-tcp-nian-5305-chai-bao.md)
     * [Netty线程模型](nettyxian-cheng-mo-xing.md)
-    * 说说Netty的零拷贝
+    * [说说Netty的零拷贝](shuo-shuo-netty-de-ling-kao-bei.md)
     * Netty内部执行流程
     * Netty重连实现
   * Tomcat
