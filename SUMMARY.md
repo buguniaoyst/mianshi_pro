@@ -45,7 +45,7 @@
   * 进程和线程
     * [线程和进程的概念，并行和并发的概念](xian-cheng-he-jin-cheng-de-gai-nian-ff0c-bing-xing-he-bing-fa-de-gai-nian.md)
     * [创建线程的方式及实现](chuang-jian-xian-cheng-de-fang-shi-ji-shi-xian.md)
-    * 进程间通信的方式
+    * [进程间通信的方式](jin-cheng-jian-tong-xin-de-fang-shi.md)
     * 说说CountDownLatch，CyclicBarrier原理和区别
     * 说说Semaphore原理
     * 说说Exchanger原理
