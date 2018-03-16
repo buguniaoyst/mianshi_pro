@@ -239,7 +239,7 @@
   * 需求分析
     * [你如何对需求原型进行理解和拆分](qi-ta/ni-ru-he-dui-xu-qiu-yuan-xing-jin-xing-li-jie-he-chai-fen.md)
     * [说说你对功能性需求的理解](qi-ta/shuo-shuo-ni-dui-gong-neng-xing-xu-qiu-de-li-jie.md)
-    * 说说你对非功能性需求的理解
+    * [说说你对非功能性需求的理解](qi-ta/shuo-shuo-ni-dui-fei-gong-neng-xing-xu-qiu-de-li-jie.md)
     * 你针对产品提出哪些交互和改进意见
     * 你如何理解用户痛点
   * 业务工程
