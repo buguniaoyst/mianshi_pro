@@ -201,7 +201,7 @@
   * Dubbo
     * [什么是Dubbo](shi-yao-shi-dubbo.md)
     * [什么是RPC，如何实现RPC,RPC的实现原理](shi-yao-shi-rpc-ff0c-ru-he-shi-xian-rpc-rpc-de-shi-xian-yuan-li.md)
-    * Dubbo中的SPI是什么概念
+    * [Dubbo中的SPI是什么概念](dubbozhong-de-spi-shi-shi-yao-gai-nian.md)
     * Dubbo的基本原理，执行流程
 * [性能优化](xing-neng-you-hua.md)
   * 性能指标有哪些
