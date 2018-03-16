@@ -153,7 +153,34 @@
 * 开源框架和容器
 
   * SSM/Servlet
+    * Servlet的生命周期
+    * 转发与重定向的区别
+    * BeanFactory和ApplicationContext有什么区别
+    * Spring Bean的生命周期
+    * Spring IOC如何实现
+    * Spring中Bean的作用域，默认的是哪一个
+    * 说说Spring AOP，Spring AOP实现原理
+    * 动态代理（CGlib与JDK），优缺点，性能对比，如何选择
+    * Spring事务实现方式，事务的传播机制，默认的事务类别
+    * Spring事务底层原理
+    * Spring事务失效（事务嵌套），JDK动态代理给Spring事务埋下的坑，可参考《JDK动态代理给Spring事务埋下的坑！》
+    * 如何自定义注解实现功能
+    * Spring MVC运行流程
+    * Spring MVC启动流程
+    * Spring 的单例实现原理
+    * Spring 框架中用到了哪些设计模式
+    * Spring 其他产品（Spring Boot，Spring Cloud，Spring Secuirity，Spring Data,Spring AMQP等）
+    * 有没有用到Spring Book，Spring Boot的认识，原理
+    * MyBatis的原理
   * Netty
+    * 为什么选择Netty
+    * 说说业务中，Netty的使用场景
+    * 原生的NIO在JDK1.7版本存在epoll bug
+    * 什么是TCP粘包/拆包
+    * Netty线程模型
+    * 说说Netty的零拷贝
+    * Netty内部执行流程
+    * Netty重连实现
   * Tomcat
 
 * 分布式
