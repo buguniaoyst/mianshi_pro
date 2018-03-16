@@ -114,7 +114,7 @@
     * [数据库事务ACID（原子性，一致性，隔离性，持久性）](shu-ju-ku-shi-wu-acid-ff08-yuan-zi-xing-ff0c-yi-zhi-xing-ff0c-ge-li-xing-ff0c-chi-jiu-xing-ff09.md)
     * [脏读，幻读，不可重复读](zang-du-ff0c-huan-du-ff0c-bu-ke-zhong-fu-du.md)
     * [数据库的几大范式](shu-ju-ku-de-ji-da-fan-shi.md)
-    * 数据库常见的命令
+    * [数据库常见的命令](shu-ju-ku-chang-jian-de-ming-ling.md)
     * 说说分库与分表设计
     * 分库与分表带来的分布式困境与对应之策（如何解决分布式下的分库分表，全局表？）
     * 说说SQL的优化之道
