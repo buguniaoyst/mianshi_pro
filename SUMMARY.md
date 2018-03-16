@@ -5,7 +5,7 @@
 * 基础篇
   * [Java基础](javaji-chu.md)
     * [面向对象的特征：继承，封装和多态](javaji-chu/mian-xiang-dui-xiang-de-te-zheng-ff1a-ji-cheng-ff0c-feng-zhuang-he-duo-tai.md)
-    * final,finally,finalize的区别
+    * [final,finally,finalize的区别](javaji-chu/finalfinallyfinalizede-qu-bie.md)
     * Exception,Error,运行时异常与一般异常有何区别
     * 请写出5中常见的runtime exception
     * int和Integer有什么区别，Integer的值缓存范围
