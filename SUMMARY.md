@@ -44,7 +44,7 @@
     * [看过哪些Java集合类的源码](kan-guo-na-xie-java-ji-he-lei-de-yuan-ma.md)
   * 进程和线程
     * [线程和进程的概念，并行和并发的概念](xian-cheng-he-jin-cheng-de-gai-nian-ff0c-bing-xing-he-bing-fa-de-gai-nian.md)
-    * 创建线程的方式及实现
+    * [创建线程的方式及实现](chuang-jian-xian-cheng-de-fang-shi-ji-shi-xian.md)
     * 进程间通信的方式
     * 说说CountDownLatch，CyclicBarrier原理和区别
     * 说说Semaphore原理
