@@ -150,7 +150,7 @@
 * 开源框架和容器
   * SSM/Servlet
     * [Servlet的生命周期](servletde-sheng-ming-zhou-qi.md)
-    * 转发与重定向的区别
+    * [转发与重定向的区别](zhuan-fa-yu-zhong-ding-xiang-de-qu-bie.md)
     * BeanFactory和ApplicationContext有什么区别
     * Spring Bean的生命周期
     * Spring IOC如何实现
