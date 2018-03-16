@@ -129,7 +129,7 @@
     * [如何选择合适的分布式主键方案](ru-he-xuan-ze-he-shi-de-fen-bu-shi-zhu-jian-fang-an.md)
     * [选择合适的数据存储方案](xuan-ze-he-shi-de-shu-ju-cun-chu-fang-an.md)
     * [常见的几种分布式ID的设计方案](chang-jian-de-ji-zhong-fen-bu-shi-id-de-she-ji-fang-an.md)
-    * 常见的数据库优化方案，在你的项目中数据库如何进行优化的
+    * [常见的数据库优化方案，在你的项目中数据库如何进行优化的](chang-jian-de-shu-ju-ku-you-hua-fang-an-ff0c-zai-ni-de-xiang-mu-zhong-shu-ju-ku-ru-he-jin-xing-you-hua-de.md)
   * Redis
     * Redis有哪些数据类型，可参考《Redis常见的5种不同的数据类型详解》
     * Redis内部结构
