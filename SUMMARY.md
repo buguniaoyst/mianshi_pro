@@ -229,7 +229,7 @@
     * [如何保证微服务的安全，认证](ru-he-bao-zheng-wei-fu-wu-de-an-quan-ff0c-ren-zheng.md)
   * 安全问题
     * [如何防范常见的Web攻击，如何防止SQL注入](ru-he-fang-fan-chang-jian-de-web-gong-ji-ff0c-ru-he-fang-zhi-sql-zhu-ru.md)
-    * 服务端通信安全攻防
+    * [服务端通信安全攻防](fu-wu-duan-tong-xin-an-quan-gong-fang.md)
     * HTTPS原理剖析，降级攻击，HTTP与HTTPS的对比
 * [其他](qi-ta.md)
   * 设计能力
