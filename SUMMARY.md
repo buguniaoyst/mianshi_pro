@@ -138,7 +138,7 @@
     * [Redis集群方案与实现](redisji-qun-fang-an-yu-shi-xian.md)
     * [Redis为什么是单线程的？](rediswei-shi-yao-shi-dan-xian-cheng-de-ff1f.md)
     * [缓存雪崩，缓存穿透，缓存预热，缓存更新，缓存降级](huan-cun-xue-beng-ff0c-huan-cun-chuan-tou-ff0c-huan-cun-yu-re-ff0c-huan-cun-geng-xin-ff0c-huan-cun-jiang-ji.md)
-    * 使用缓存的合理性问题
+    * [使用缓存的合理性问题](shi-yong-huan-cun-de-he-li-xing-wen-ti.md)
     * Redis常见的回收策略
   * 消息队列
     * 消息队列的使用场景
