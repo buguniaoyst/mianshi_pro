@@ -31,7 +31,7 @@
     * [List和Set区别](listhe-set-qu-bie.md)
     * [Set和hashCode以及equals方法的联系](sethe-hashcode-yi-ji-equals-fang-fa-de-lian-xi.md)
     * [List和Map的区别](listhe-map-de-qu-bie.md)
-    * ArrayList和LinkedList的区别
+    * [ArrayList和LinkedList的区别](arraylisthe-linkedlist-de-qu-bie.md)
     * ArrayList和Vector的区别
     * HashMap和Hashtable的区别
     * HashSet和HashMap的区别
