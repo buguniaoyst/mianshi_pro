@@ -52,7 +52,7 @@
     * [ThreadLocal原理分析，ThreadLocal为什么会出现OOM，出现的深层次原理](threadlocalyuan-li-fen-xi-ff0c-threadlocal-wei-shi-yao-hui-chu-xian-oom-ff0c-chu-xian-de-shen-ceng-ci-yuan-li.md)
     * [讲讲线程池的实现原理](jiang-jiang-xian-cheng-chi-de-shi-xian-yuan-li.md)
     * [线程池的几种实现方式](xian-cheng-chi-de-ji-zhong-shi-xian-fang-shi.md)
-    * 线程的生命周期，状态是如何转移的
+    * [线程的生命周期，状态是如何转移的](xian-cheng-de-sheng-ming-zhou-qi-ff0c-zhuang-tai-shi-ru-he-zhuan-yi-de.md)
     * 可参考：《Java多线程编程核心技术》
   * 锁机制
     * 说说线程安全问题，什么是线程安全，如何保证线程安全
