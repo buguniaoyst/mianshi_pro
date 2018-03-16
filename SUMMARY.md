@@ -196,8 +196,8 @@
     * [分布式锁的应用场景，分布式锁的产生原因，基本概念](fen-bu-shi-suo-de-ying-yong-chang-jing-ff0c-fen-bu-shi-suo-de-chan-sheng-yuan-yin-ff0c-ji-ben-gai-nian.md)
     * [分布式锁的常见解决方案](fen-bu-shi-suo-de-chang-jian-jie-jue-fang-an.md)
     * [集群与负载均衡的算法与实现](ji-qun-yu-fu-zai-jun-heng-de-suan-fa-yu-shi-xian.md)
-    * 说说分库与分表设计
-    * 分库与分表带来的分布式困境与应对之策
+    * [说说分库与分表设计](shuo-shuo-fen-ku-yu-fen-biao-she-ji.md)
+    * [分库与分表带来的分布式困境与应对之策](fen-ku-yu-fen-biao-dai-lai-de-fen-bu-shi-kun-jing-yu-ying-dui-zhi-ce.md)
   * Dubbo
     * 什么是Dubbo
     * 什么是RPC，如何实现RPC,RPC的实现原理
