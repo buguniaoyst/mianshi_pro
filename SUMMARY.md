@@ -115,7 +115,7 @@
     * [脏读，幻读，不可重复读](zang-du-ff0c-huan-du-ff0c-bu-ke-zhong-fu-du.md)
     * [数据库的几大范式](shu-ju-ku-de-ji-da-fan-shi.md)
     * [数据库常见的命令](shu-ju-ku-chang-jian-de-ming-ling.md)
-    * 说说分库与分表设计
+    * [说说分库与分表设计](shuo-shuo-fen-ku-yu-fen-biao-she-ji.md)
     * 分库与分表带来的分布式困境与对应之策（如何解决分布式下的分库分表，全局表？）
     * 说说SQL的优化之道
     * MySQL遇到的死锁问题，如何排查与解决
