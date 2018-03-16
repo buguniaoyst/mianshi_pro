@@ -215,7 +215,7 @@
     * [Spring Cloud的常见组件有哪些](spring-cloudde-chang-jian-zu-jian-you-na-xie.md)
     * [领域驱动有了解吗？什么是领域驱动模型？充血模型，贫血模型](ling-yu-qu-dong-you-le-jie-ma-ff1f-shi-yao-shi-ling-yu-qu-dong-mo-xing-ff1f-chong-xie-mo-xing-ff0c-pin-xie-mo-xing.md)
     * [JWT有了解吗，什么是JWT](jwtyou-le-jie-ma-ff0c-shi-yao-shi-jwt.md)
-    * 你怎么理解RESTful
+    * [你怎么理解RESTful](ni-zen-yao-li-jie-restful.md)
     * 说说如何设计一个良好的API
     * 如何理解RESTful API的幂等性
     * 如何保证接口的幂等性
