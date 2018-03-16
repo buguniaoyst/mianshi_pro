@@ -68,7 +68,7 @@
     * [什么是ABA问题，出现ABA问题JDK是如何解决的](shi-yao-shi-aba-wen-ti-ff0c-chu-xian-aba-wen-ti-jdk-shi-ru-he-jie-jue-de.md)
     * [乐观锁的业务场景及实现方式](le-guan-suo-de-ye-wu-chang-jing-ji-shi-xian-fang-shi.md)
     * [Java8并发包下常见的并发类](java8bing-fa-bao-xia-chang-jian-de-bing-fa-lei.md)
-    * 偏向锁，轻量级锁，重量级锁，自旋锁的概念
+    * [偏向锁，轻量级锁，重量级锁，自旋锁的概念](pian-xiang-suo-ff0c-qing-liang-ji-suo-ff0c-zhong-liang-ji-suo-ff0c-zi-xuan-suo-de-gai-nian.md)
     * 可参考：《Java多线程编程核心技术》
   * JVM
     * JVM运行时内存区域划分
