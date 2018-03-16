@@ -145,7 +145,7 @@
     * [消息的重发补偿解决思路](xiao-xi-de-zhong-fa-bu-chang-jie-jue-si-lu.md)
     * [消息的幂等性解决思路](xiao-xi-de-mi-deng-xing-jie-jue-si-lu.md)
     * [消息的堆积解决思路](xiao-xi-de-dui-ji-jie-jue-si-lu.md)
-    * 自己如何实现消息队列
+    * [自己如何实现消息队列](zi-ji-ru-he-shi-xian-xiao-xi-dui-lie.md)
     * 如何保证消息的有序性
 * 开源框架和容器
   * SSM/Servlet
