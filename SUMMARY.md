@@ -263,7 +263,7 @@
     * [说说你认为的服务端开发工程师应该具备哪些能力](qi-ta/shuo-shuo-ni-ren-wei-de-fu-wu-duan-kai-fa-gong-cheng-shi-ying-gai-ju-bei-na-xie-neng-li.md)
     * [说说你认为的架构师是什么样的，架构师主要做什么](qi-ta/shuo-shuo-ni-ren-wei-de-jia-gou-shi-shi-shi-yao-yang-de-ff0c-jia-gou-shi-zhu-yao-zuo-shi-yao.md)
     * [如何看待加班的问题](qi-ta/ru-he-kan-dai-jia-ban-de-wen-ti.md)
-    * 说说你所理解的技术专家
+    * [说说你所理解的技术专家](qi-ta/shuo-shuo-ni-suo-li-jie-de-ji-zhu-zhuan-jia.md)
 * [Java面试通关要点来源说明](javamian-shi-tong-guan-yao-dian-lai-yuan-shuo-ming.md)
   * [Java面试通关要点汇总来源](javamian-shi-tong-guan-yao-dian-hui-zong-lai-yuan.md)
 
