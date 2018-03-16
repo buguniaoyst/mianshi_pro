@@ -47,7 +47,7 @@
     * [创建线程的方式及实现](chuang-jian-xian-cheng-de-fang-shi-ji-shi-xian.md)
     * [进程间通信的方式](jin-cheng-jian-tong-xin-de-fang-shi.md)
     * [说说CountDownLatch，CyclicBarrier原理和区别](shuoshuo-countdownlatch-cyclicbarrier-yuan-li-he-qu-bie.md)
-    * 说说Semaphore原理
+    * [说说Semaphore原理](shuo-shuosemaphore-yuan-li.md)
     * 说说Exchanger原理
     * ThreadLocal原理分析，ThreadLocal为什么会出现OOM，出现的深层次原理
     * 讲讲线程池的实现原理
