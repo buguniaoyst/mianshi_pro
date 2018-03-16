@@ -80,7 +80,7 @@
     * [JVM性能调优](jvmxing-neng-diao-you.md)
     * [类加载器，双亲委派模型，一个类的生命周期，类是如何加载到JVM中的](lei-jia-zai-qi-ff0c-shuang-qin-wei-pai-mo-xing-ff0c-yi-ge-lei-de-sheng-ming-zhou-qi-ff0c-lei-shi-ru-he-jia-zai-dao-jvm-zhong-de.md)
     * [类加载的过程：加载，验证，准备，解析，初始化](lei-jia-zai-de-guo-cheng-ff1a-jia-zai-ff0c-yan-zheng-ff0c-zhun-bei-ff0c-jie-xi-ff0c-chu-shi-hua.md)
-    * 强引用，软引用，弱引用，虚引用
+    * [强引用，软引用，弱引用，虚引用](qiang-yin-yong-ff0c-ruan-yin-yong-ff0c-ruo-yin-yong-ff0c-xu-yin-yong.md)
     * Java内存模型JMM
   * 设计模式
     * 常见的设计模式
