@@ -159,7 +159,7 @@
     * [动态代理（CGlib与JDK），优缺点，性能对比，如何选择](dong-tai-dai-li-ff08-cglib-yu-jdk-ff09-ff0c-you-que-dian-ff0c-xing-neng-dui-bi-ff0c-ru-he-xuan-ze.md)
     * [Spring事务实现方式，事务的传播机制，默认的事务类别](springshi-wu-shi-xian-fang-shi-ff0c-shi-wu-de-chuan-bo-ji-zhi-ff0c-mo-ren-de-shi-wu-lei-bie.md)
     * [Spring事务底层原理](springshi-wu-di-ceng-yuan-li.md)
-    * Spring事务失效（事务嵌套），JDK动态代理给Spring事务埋下的坑，可参考《JDK动态代理给Spring事务埋下的坑！》
+    * [Spring事务失效（事务嵌套），JDK动态代理给Spring事务埋下的坑，可参考《JDK动态代理给Spring事务埋下的坑！》](springshi-wu-shi-xiao-ff08-shi-wu-qian-tao-ff09-ff0c-jdk-dong-tai-dai-li-gei-spring-shi-wu-mai-xia-de-keng-ff0c-ke-can-kao-300a-jdk-dong-tai-dai-li-gei-spring-shi-wu-mai-xia-de-keng-ff01-300b.md)
     * 如何自定义注解实现功能
     * Spring MVC运行流程
     * Spring MVC启动流程
