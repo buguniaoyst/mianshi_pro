@@ -125,7 +125,7 @@
     * [为什么要用B+tree作为MySQL索引的数据结构](wei-shi-yao-yao-yong-b-+-tree-zuo-wei-mysql-suo-yin-de-shu-ju-jie-gou.md)
     * [聚集索引与非聚集索引的区别](ju-ji-suo-yin-yu-fei-ju-ji-suo-yin-de-qu-bie.md)
     * [遇到过索引失效的情况没，什么时候可能会出现，如何解决](yu-dao-guo-suo-yin-shi-xiao-de-qing-kuang-mei-ff0c-shi-yao-shi-hou-ke-neng-hui-chu-xian-ff0c-ru-he-jie-jue.md)
-    * limit 20000加载很慢怎么解决
+    * [limit 20000加载很慢怎么解决](limit-20000jia-zai-hen-man-zen-yao-jie-jue.md)
     * 如何选择合适的分布式主键方案
     * 选择合适的数据存储方案
     * 常见的几种分布式ID的设计方案
