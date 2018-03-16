@@ -26,7 +26,7 @@
     * [Object类中常见的方法，为什么wait notify会放在Object里边？](javaji-chu/objectlei-zhong-chang-jian-de-fang-fa-ff0c-wei-shi-yao-wait-notify-hui-fang-zai-object-li-bian-ff1f.md)
     * [Java的平台无关性如何体现出来](javaji-chu/javade-ping-tai-wu-guan-xing-ru-he-ti-xian-chu-lai.md)
     * [JDK和JRE的区别](javaji-chu/jdkhe-jre-de-qu-bie.md)
-    * Java8有哪些新特性
+    * [Java8有哪些新特性](javaji-chu/java8you-na-xie-xin-te-xing.md)
   * 常见集合
     * List和Set区别
     * Set和hashCode以及equals方法的联系
