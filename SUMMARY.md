@@ -192,7 +192,7 @@
   * 分布式其他
     * [谈谈业务中使用分布式的场景](tan-tan-ye-wu-zhong-shi-yong-fen-bu-shi-de-chang-jing.md)
     * [Session分布式方案](sessionfen-bu-shi-fang-an.md)
-    * Session分布式处理
+    * [Session分布式处理](sessionfen-bu-shi-chu-li.md)
     * 分布式锁的应用场景，分布式锁的产生原因，基本概念
     * 分布式锁的常见解决方案
     * 集群与负载均衡的算法与实现
