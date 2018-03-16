@@ -169,7 +169,7 @@
     * [有没有用到Spring Boot，Spring Boot的认识，原理](you-mei-you-yong-dao-spring-book-spring-boot-de-ren-shi-ff0c-yuan-li.md)
     * [MyBatis的原理](mybatisde-yuan-li.md)
   * Netty
-    * 为什么选择Netty
+    * [为什么选择Netty](wei-shi-yao-xuan-ze-netty.md)
     * 说说业务中，Netty的使用场景
     * 原生的NIO在JDK1.7版本存在epoll bug
     * 什么是TCP粘包/拆包
