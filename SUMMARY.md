@@ -132,7 +132,7 @@
     * [常见的数据库优化方案，在你的项目中数据库如何进行优化的](chang-jian-de-shu-ju-ku-you-hua-fang-an-ff0c-zai-ni-de-xiang-mu-zhong-shu-ju-ku-ru-he-jin-xing-you-hua-de.md)
   * Redis
     * [Redis有哪些数据类型，可参考《Redis常见的5种不同的数据类型详解》](redisyou-na-xie-shu-ju-lei-xing-ff0c-ke-can-kao-300a-redis-chang-jian-de-5-zhong-bu-tong-de-shu-ju-lei-xing-xiang-jie-300b.md)
-    * Redis内部结构
+    * [Redis内部结构](redisnei-bu-jie-gou.md)
     * Redis使用场景
     * Redis持久化机制，可参考《使用快照和AOF将Redis数据持久化到硬盘中》
     * Redis集群方案与实现
