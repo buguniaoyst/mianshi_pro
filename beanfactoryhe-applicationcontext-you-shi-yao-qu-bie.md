@@ -1,0 +1,2 @@
+# BeanFactory和ApplicationContext有什么区别
+
