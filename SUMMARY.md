@@ -75,7 +75,7 @@
     * [内存溢出OOM和堆栈溢出SOE的示例及原因，如何排查与解决](nei-cun-yi-chu-oom-he-dui-zhan-yi-chu-soe-de-shi-li-ji-yuan-yin-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * [如何判断对象是否可以回收或存活](ru-he-pan-duan-dui-xiang-shi-fou-ke-yi-hui-shou-huo-cun-huo.md)
     * [常见的GC回收算法及其含义](chang-jian-de-gc-hui-shou-suan-fa-ji-qi-han-yi.md)
-    * 常见的JVM性能监控和故障处理工具类：jps，jstat，jmap，jinfo，jconsole等
+    * [常见的JVM性能监控和故障处理工具类：jps，jstat，jmap，jinfo，jconsole等](chang-jian-de-jvm-xing-neng-jian-kong-he-gu-zhang-chu-li-gong-ju-lei-ff1a-jps-jstat-jmap-jinfo-jconsole-deng.md)
     * JVM如何设置参数
     * JVM性能调优
     * 类加载器，双亲委派模型，一个类的生命周期，类是如何加载到JVM中的
