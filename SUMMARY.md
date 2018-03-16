@@ -83,7 +83,7 @@
     * [强引用，软引用，弱引用，虚引用](qiang-yin-yong-ff0c-ruan-yin-yong-ff0c-ruo-yin-yong-ff0c-xu-yin-yong.md)
     * [Java内存模型JMM](javanei-cun-mo-xing-jmm.md)
   * 设计模式
-    * 常见的设计模式
+    * [常见的设计模式](chang-jian-de-she-ji-mo-shi.md)
     * 设计模式的六大原则及含义
     * 常见的单例模式以及各种实现方式的优缺点，哪一个最好，手写常见的单例模式
     * 设计模式在实际场景中的应用
