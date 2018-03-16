@@ -167,7 +167,7 @@
     * [Spring 框架中用到了哪些设计模式](spring-kuang-jia-zhong-yong-dao-le-na-xie-she-ji-mo-shi.md)
     * [Spring 其他产品（Spring Boot，Spring Cloud，Spring Secuirity，Spring Data,Spring AMQP等）](spring-qi-ta-chanpin-ff08-spring-boot-spring-cloud-spring-secuirity-spring-data-spring-amqp-deng-ff09.md)
     * [有没有用到Spring Boot，Spring Boot的认识，原理](you-mei-you-yong-dao-spring-book-spring-boot-de-ren-shi-ff0c-yuan-li.md)
-    * MyBatis的原理
+    * [MyBatis的原理](mybatisde-yuan-li.md)
   * Netty
     * 为什么选择Netty
     * 说说业务中，Netty的使用场景
