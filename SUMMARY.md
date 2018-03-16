@@ -182,10 +182,19 @@
     * Netty内部执行流程
     * Netty重连实现
   * Tomcat
+    * Tomcat的基础架构（Server，Service，Connector，Container）
+    * Tomcat如何加载Servlet
+    * Pipeline-Value机制
 
 * 分布式
 
   * Nginx
+    * 请解释什么是10K问题或者知道什么是10K问题吗？
+    * Nginx简介
+    * 正向代理和反向代理
+    * Nginx几种常见的负载均衡策略
+    * Nginx服务器上的Master和Worker进程分别是什么
+    * 使用“反向代理”的优点是什么？
   * 分布式其他
   * Dubbo
 
