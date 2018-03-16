@@ -243,7 +243,7 @@
     * [你针对产品提出哪些交互和改进意见](qi-ta/ni-zhen-dui-chan-pin-ti-chu-na-xie-jiao-hu-he-gai-jin-yi-jian.md)
     * [你如何理解用户痛点](qi-ta/ni-ru-he-li-jie-yong-hu-tong-dian.md)
   * 业务工程
-    * 说说你的开发流程，如何进行自动化部署
+    * [说说你的开发流程，如何进行自动化部署](qi-ta/shuo-shuo-ni-de-kai-fa-liu-cheng-ff0c-ru-he-jin-xing-zi-dong-hua-bu-shu.md)
     * 你和团队是如何沟通的
     * 你如何进行代码评审
     * 说说你对技术与业务的理解
