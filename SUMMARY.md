@@ -97,7 +97,7 @@
     * [深度有限算法，广度优先算法](shen-du-you-xian-suan-fa-ff0c-guang-du-you-xian-suan-fa.md)
     * [克鲁斯卡尔算法，普林姆算法，迪克拉斯算法](ke-lu-si-qia-er-suan-fa-ff0c-pu-lin-mu-suan-fa-ff0c-di-ke-la-si-suan-fa.md)
     * [什么是一致性Hash及其原理，Hash环问题](shi-yao-shi-yi-zhi-xing-hash-ji-qi-yuan-li-ff0c-hash-huan-wen-ti.md)
-    * 常见的排序算法和查找算法：快排，折半查找，堆排序等
+    * [常见的排序算法和查找算法：快排，折半查找，堆排序等](chang-jian-de-pai-xu-suan-fa-he-cha-zhao-suan-fa-ff1a-kuai-pai-ff0c-zhe-ban-cha-zhao-ff0c-dui-pai-xu-deng.md)
   * 网络/IO基础
     * BIO,NIO,AIO的概念
     * 什么是长连接和短连接
