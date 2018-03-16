@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [2018最全Java面试通关秘籍汇总](2018zui-quan-java-mian-shi-tong-guan-mi-ji-hui-zong.md)
 * 基础篇
-
   * Java基础
     * 面向对象的特征：继承，封装和多态
     * final,finally,finalize的区别
@@ -106,9 +105,7 @@
     * Https的基本概念
     * 三次握手和四次握手，为什么挥手需要四次
     * 从浏览器中输入URL到页面的加载发生了什么？
-
 * 数据存储和消息队列
-
   * 数据库
     * MySQL索引使用的注意事项
     * DDL,DML,DCL分别指什么
@@ -150,9 +147,7 @@
     * 消息的堆积解决思路
     * 自己如何实现消息队列
     * 如何保证消息的有序性
-
 * 开源框架和容器
-
   * SSM/Servlet
     * Servlet的生命周期
     * 转发与重定向的区别
@@ -186,9 +181,7 @@
     * Tomcat的基础架构（Server，Service，Connector，Container）
     * Tomcat如何加载Servlet
     * Pipeline-Value机制
-
 * 分布式
-
   * Nginx
     * 请解释什么是10K问题或者知道什么是10K问题吗？
     * Nginx简介
@@ -210,9 +203,7 @@
     * 什么是RPC，如何实现RPC,RPC的实现原理
     * Dubbo中的SPI是什么概念
     * Dubbo的基本原理，执行流程
-
 * 微服务
-
   * 微服务
     * 前后端分离是如何做的？
     * 微服务有哪些框架
@@ -240,9 +231,7 @@
     * 如何发现性能瓶颈
     * 性能调优的常见手段
     * 说说你在项目中如何进行性能调优
-
 * 其他
-
   * 设计能力
     * 说说你在项目中使用过的UML图
     * 如何考虑组件化，服务化，系统拆分
@@ -275,9 +264,6 @@
     * 说说你认为的架构师是什么样的，架构师主要做什么
     * 如何看待加班的问题
     * 说说你所理解的技术专家
-
 * 说明
-  * Java面试通关要点汇总来源
-
-
+  * [Java面试通关要点汇总来源](javamian-shi-tong-guan-yao-dian-hui-zong-lai-yuan.md)
 
