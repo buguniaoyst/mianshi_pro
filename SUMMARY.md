@@ -218,7 +218,7 @@
     * [你怎么理解RESTful](ni-zen-yao-li-jie-restful.md)
     * [说说如何设计一个良好的API](shuo-shuo-ru-he-she-ji-yi-ge-liang-hao-de-api.md)
     * [如何理解RESTful API的幂等性](ru-he-li-jie-restful-api-de-mi-deng-xing.md)
-    * 如何保证接口的幂等性
+    * [如何保证接口的幂等性](ru-he-bao-zheng-jie-kou-de-mi-deng-xing.md)
     * 说说CAP定理，BASE理论
     * 怎么考虑数据一致性问题
     * 说说最终一致性的实现方案
