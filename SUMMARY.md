@@ -11,7 +11,7 @@
     * [int和Integer有什么区别，Integer的值缓存范围](javaji-chu/inthe-integer-you-shi-yao-qu-bie-ff0c-integer-de-zhi-huan-cun-fan-wei.md)
     * [包装类，装箱和拆箱](javaji-chu/bao-zhuang-lei-ff0c-zhuang-xiang-he-chai-xiang.md)
     * [String，StringBuilder，StringBuffer](javaji-chu/stringstringbuilderstringbuffer.md)
-    * 重载和重写的区别
+    * [重载和重写的区别](javaji-chu/zhong-zai-he-zhong-xie-de-qu-bie.md)
     * 抽象类和接口有什么区别
     * 说说反射的用途及实现
     * 说说自定义注解的场景及实现
