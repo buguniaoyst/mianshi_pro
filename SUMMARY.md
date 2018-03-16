@@ -127,7 +127,7 @@
     * [遇到过索引失效的情况没，什么时候可能会出现，如何解决](yu-dao-guo-suo-yin-shi-xiao-de-qing-kuang-mei-ff0c-shi-yao-shi-hou-ke-neng-hui-chu-xian-ff0c-ru-he-jie-jue.md)
     * [limit 20000加载很慢怎么解决](limit-20000jia-zai-hen-man-zen-yao-jie-jue.md)
     * [如何选择合适的分布式主键方案](ru-he-xuan-ze-he-shi-de-fen-bu-shi-zhu-jian-fang-an.md)
-    * 选择合适的数据存储方案
+    * [选择合适的数据存储方案](xuan-ze-he-shi-de-shu-ju-cun-chu-fang-an.md)
     * 常见的几种分布式ID的设计方案
     * 常见的数据库优化方案，在你的项目中数据库如何进行优化的
   * Redis
