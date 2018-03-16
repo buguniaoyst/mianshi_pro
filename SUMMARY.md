@@ -28,7 +28,7 @@
     * [JDK和JRE的区别](javaji-chu/jdkhe-jre-de-qu-bie.md)
     * [Java8有哪些新特性](javaji-chu/java8you-na-xie-xin-te-xing.md)
   * 常见集合
-    * List和Set区别
+    * [List和Set区别](listhe-set-qu-bie.md)
     * Set和hashCode以及equals方法的联系
     * List和Map的区别
     * ArrayList和LinkedList的区别
