@@ -245,7 +245,7 @@
   * 业务工程
     * [说说你的开发流程，如何进行自动化部署](qi-ta/shuo-shuo-ni-de-kai-fa-liu-cheng-ff0c-ru-he-jin-xing-zi-dong-hua-bu-shu.md)
     * [你和团队是如何沟通的](qi-ta/ni-he-tuan-dui-shi-ru-he-gou-tong-de.md)
-    * 你如何进行代码评审
+    * [你如何进行代码评审](qi-ta/ni-ru-he-jin-xing-dai-ma-ping-shen.md)
     * 说说你对技术与业务的理解
     * 说说你在项目中遇到感觉最难的Bug，是如何解决的
     * 说说你在项目中遇到印象最深的困难，怎么解决的
