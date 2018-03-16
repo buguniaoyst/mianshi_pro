@@ -64,7 +64,7 @@
     * [synchronized与lock的区别](synchronizedyu-lock-de-qu-bie.md)
     * [AQS同步队列](aqstong-bu-dui-lie.md)
     * [CAS无锁的概念，乐观锁和悲观锁](caswu-suo-de-gai-nian-ff0c-le-guan-suo-he-bei-guan-suo.md)
-    * 常见的原子操作类
+    * [常见的原子操作类](chang-jian-de-yuan-zi-cao-zuo-lei.md)
     * 什么是ABA问题，出现ABA问题JDK是如何解决的
     * 乐观锁的业务场景及实现方式
     * Java8并发包下常见的并发类
