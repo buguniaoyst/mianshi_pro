@@ -65,7 +65,7 @@
     * [AQS同步队列](aqstong-bu-dui-lie.md)
     * [CAS无锁的概念，乐观锁和悲观锁](caswu-suo-de-gai-nian-ff0c-le-guan-suo-he-bei-guan-suo.md)
     * [常见的原子操作类](chang-jian-de-yuan-zi-cao-zuo-lei.md)
-    * 什么是ABA问题，出现ABA问题JDK是如何解决的
+    * [什么是ABA问题，出现ABA问题JDK是如何解决的](shi-yao-shi-aba-wen-ti-ff0c-chu-xian-aba-wen-ti-jdk-shi-ru-he-jie-jue-de.md)
     * 乐观锁的业务场景及实现方式
     * Java8并发包下常见的并发类
     * 偏向锁，轻量级锁，重量级锁，自旋锁的概念
