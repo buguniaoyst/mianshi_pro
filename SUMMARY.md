@@ -251,7 +251,7 @@
     * [说说你在项目中遇到印象最深的困难，怎么解决的](qi-ta/shuo-shuo-ni-zai-xiang-mu-zhong-yu-dao-yin-xiang-zui-shen-de-kun-nan-ff0c-zen-yao-jie-jue-de.md)
     * [你是否遇到过CPU100%，如何排查与解决](qi-ta/ni-shi-fou-yu-dao-guo-cpu100-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * [你是否遇到过内存OOM，如何排查与解决](qi-ta/ni-shi-fou-yu-dao-guo-nei-cun-oom-ff0c-ru-he-pai-cha-yu-jie-jue.md)
-    * 说说你对敏捷开发的实践
+    * [说说你对敏捷开发的实践](qi-ta/shuo-shuo-ni-dui-min-jie-kai-fa-de-shi-jian.md)
     * 说说你对开发运维的实践
     * 介绍一下工作中的一个你认为最有价值的项目，以及在这个过程中的角色，解决的问题，你觉得你们项目还有哪些不足的地方
   * 软实力
