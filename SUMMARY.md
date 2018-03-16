@@ -233,7 +233,7 @@
     * [HTTPS原理剖析，降级攻击，HTTP与HTTPS的对比](httpsyuan-li-pou-xi-ff0c-jiang-ji-gong-ji-ff0c-http-yu-https-de-dui-bi.md)
 * [其他](qi-ta.md)
   * 设计能力
-    * 说说你在项目中使用过的UML图
+    * [说说你在项目中使用过的UML图](qi-ta/shuo-shuo-ni-zai-xiang-mu-zhong-shi-yong-guo-de-uml-tu.md)
     * 如何考虑组件化，服务化，系统拆分
     * 秒杀场景如何设计
   * 需求分析
