@@ -78,7 +78,7 @@
     * [常见的JVM性能监控和故障处理工具类：jps，jstat，jmap，jinfo，jconsole等](chang-jian-de-jvm-xing-neng-jian-kong-he-gu-zhang-chu-li-gong-ju-lei-ff1a-jps-jstat-jmap-jinfo-jconsole-deng.md)
     * [JVM如何设置参数](jvmru-he-she-zhi-can-shu.md)
     * [JVM性能调优](jvmxing-neng-diao-you.md)
-    * 类加载器，双亲委派模型，一个类的生命周期，类是如何加载到JVM中的
+    * [类加载器，双亲委派模型，一个类的生命周期，类是如何加载到JVM中的](lei-jia-zai-qi-ff0c-shuang-qin-wei-pai-mo-xing-ff0c-yi-ge-lei-de-sheng-ming-zhou-qi-ff0c-lei-shi-ru-he-jia-zai-dao-jvm-zhong-de.md)
     * 类加载的过程：加载，验证，准备，解析，初始化
     * 强引用，软引用，弱引用，虚引用
     * Java内存模型JMM
