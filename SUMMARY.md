@@ -49,7 +49,7 @@
     * [说说CountDownLatch，CyclicBarrier原理和区别](shuoshuo-countdownlatch-cyclicbarrier-yuan-li-he-qu-bie.md)
     * [说说Semaphore原理](shuo-shuosemaphore-yuan-li.md)
     * [说说Exchanger原理](shuo-shuo-exchanger-yuan-li.md)
-    * ThreadLocal原理分析，ThreadLocal为什么会出现OOM，出现的深层次原理
+    * [ThreadLocal原理分析，ThreadLocal为什么会出现OOM，出现的深层次原理](threadlocalyuan-li-fen-xi-ff0c-threadlocal-wei-shi-yao-hui-chu-xian-oom-ff0c-chu-xian-de-shen-ceng-ci-yuan-li.md)
     * 讲讲线程池的实现原理
     * 线程池的几种实现方式
     * 线程的生命周期，状态是如何转移的
