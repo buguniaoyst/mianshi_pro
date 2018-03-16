@@ -108,7 +108,7 @@
 * 数据存储和消息队列
   * 数据库
     * [MySQL索引使用的注意事项](mysqlsuo-yin-shi-yong-de-zhu-yi-shi-xiang.md)
-    * DDL,DML,DCL分别指什么
+    * [DDL,DML,DCL分别指什么](ddldmldclfen-bie-zhi-shi-yao.md)
     * explain命令
     * left join,right join,inner join
     * 数据库事务ACID（原子性，一致性，隔离性，持久性）
