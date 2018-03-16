@@ -264,8 +264,6 @@
     * 说说你认为的架构师是什么样的，架构师主要做什么
     * 如何看待加班的问题
     * 说说你所理解的技术专家
-* Java面试通关要点来源说明
+* [Java面试通关要点来源说明](javamian-shi-tong-guan-yao-dian-lai-yuan-shuo-ming.md)
   * [Java面试通关要点汇总来源](javamian-shi-tong-guan-yao-dian-hui-zong-lai-yuan.md)
-
-
 
