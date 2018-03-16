@@ -183,7 +183,7 @@
     * [Pipeline-Value机制](pipeline-valueji-zhi.md)
 * 分布式
   * Nginx
-    * 请解释什么是10K问题或者知道什么是10K问题吗？
+    * [请解释什么是10K问题或者知道什么是10K问题吗？](qing-jie-shi-shi-yao-shi-10k-wen-ti-huo-zhe-zhi-dao-shi-yao-shi-10k-wen-ti-ma-ff1f.md)
     * Nginx简介
     * 正向代理和反向代理
     * Nginx几种常见的负载均衡策略
