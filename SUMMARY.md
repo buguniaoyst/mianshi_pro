@@ -8,7 +8,7 @@
     * [final,finally,finalize的区别](javaji-chu/finalfinallyfinalizede-qu-bie.md)
     * [Exception,Error,运行时异常与一般异常有何区别](javaji-chu/exceptionerroryun-xing-shi-yi-chang-yu-yi-ban-yi-chang-you-he-qu-bie.md)
     * [请写出5中常见的runtime exception](javaji-chu/qing-xie-chu-5-zhong-chang-jian-de-runtime-exception.md)
-    * int和Integer有什么区别，Integer的值缓存范围
+    * [int和Integer有什么区别，Integer的值缓存范围](javaji-chu/inthe-integer-you-shi-yao-qu-bie-ff0c-integer-de-zhi-huan-cun-fan-wei.md)
     * 包装类，装箱和拆箱
     * String，StringBuilder，StringBuffer
     * 重载和重写的区别
