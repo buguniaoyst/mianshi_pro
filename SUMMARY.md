@@ -179,7 +179,7 @@
     * [Netty重连实现](nettyzhong-lian-shi-xian.md)
   * Tomcat
     * [Tomcat的基础架构（Server，Service，Connector，Container）](tomcatde-ji-chu-jia-gou-ff08-server-service-connector-container.md)
-    * Tomcat如何加载Servlet
+    * [Tomcat如何加载Servlet](tomcatru-he-jia-zai-servlet.md)
     * Pipeline-Value机制
 * 分布式
   * Nginx
