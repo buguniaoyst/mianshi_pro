@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [2018最全Java面试通关秘籍汇总](2018zui-quan-java-mian-shi-tong-guan-mi-ji-hui-zong.md)
-* 基础篇
+* [基础篇](ji-chu-pian.md)
   * [Java基础](javaji-chu.md)
     * [面向对象的特征：继承，封装和多态](javaji-chu/mian-xiang-dui-xiang-de-te-zheng-ff1a-ji-cheng-ff0c-feng-zhuang-he-duo-tai.md)
     * [final,finally,finalize的区别](javaji-chu/finalfinallyfinalizede-qu-bie.md)
