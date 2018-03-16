@@ -205,7 +205,7 @@
     * [Dubbo的基本原理，执行流程](dubbode-ji-ben-yuan-li-ff0c-zhi-xing-liu-cheng.md)
 * [性能优化](xing-neng-you-hua.md)
   * [性能指标有哪些](xing-neng-you-hua/xing-neng-zhi-biao-you-na-xie.md)
-  * 如何发现性能瓶颈
+  * [如何发现性能瓶颈](xing-neng-you-hua/ru-he-fa-xian-xing-neng-ping-jing.md)
   * 性能调优的常见手段
   * 说说你在项目中如何进行性能调优
 * 微服务
