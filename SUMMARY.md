@@ -95,7 +95,7 @@
   * 数据结构
     * [树（二叉查找树，平衡二叉树，红黑树，B树，B+树）](shu-ff08-er-cha-cha-zhao-shu-ff0c-ping-heng-er-cha-shu-ff0c-hong-hei-shu-ff0c-b-shu-ff0c-b-shu-ff09.md)
     * [深度有限算法，广度优先算法](shen-du-you-xian-suan-fa-ff0c-guang-du-you-xian-suan-fa.md)
-    * 克鲁斯卡尔算法，普林姆算法，迪克拉斯算法
+    * [克鲁斯卡尔算法，普林姆算法，迪克拉斯算法](ke-lu-si-qia-er-suan-fa-ff0c-pu-lin-mu-suan-fa-ff0c-di-ke-la-si-suan-fa.md)
     * 什么是一致性Hash及其原理，Hash环问题
     * 常见的排序算法和查找算法：快排，折半查找，堆排序等
   * 网络/IO基础
