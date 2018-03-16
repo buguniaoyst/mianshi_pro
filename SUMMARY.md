@@ -241,7 +241,7 @@
     * [说说你对功能性需求的理解](qi-ta/shuo-shuo-ni-dui-gong-neng-xing-xu-qiu-de-li-jie.md)
     * [说说你对非功能性需求的理解](qi-ta/shuo-shuo-ni-dui-fei-gong-neng-xing-xu-qiu-de-li-jie.md)
     * [你针对产品提出哪些交互和改进意见](qi-ta/ni-zhen-dui-chan-pin-ti-chu-na-xie-jiao-hu-he-gai-jin-yi-jian.md)
-    * 你如何理解用户痛点
+    * [你如何理解用户痛点](qi-ta/ni-ru-he-li-jie-yong-hu-tong-dian.md)
   * 业务工程
     * 说说你的开发流程，如何进行自动化部署
     * 你和团队是如何沟通的
