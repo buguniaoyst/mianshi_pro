@@ -142,7 +142,7 @@
     * [Redis常见的回收策略](redischang-jian-de-hui-shou-ce-lve.md)
   * 消息队列
     * [消息队列的使用场景](xiao-xi-dui-lie-de-shi-yong-chang-jing.md)
-    * 消息的重发补偿解决思路
+    * [消息的重发补偿解决思路](xiao-xi-de-zhong-fa-bu-chang-jie-jue-si-lu.md)
     * 消息的幂等性解决思路
     * 消息的堆积解决思路
     * 自己如何实现消息队列
