@@ -20,7 +20,7 @@
     * [列出自己常用的JDK包](javaji-chu/lie-chu-zi-ji-chang-yong-de-jdk-bao.md)
     * [MVC设计思想](javaji-chu/mvcshe-ji-si-xiang.md)
     * [JDBC流程](javaji-chu/jdbcliu-cheng.md)
-    * equals与==的区别
+    * [equals与==的区别](javaji-chu/equals4e0e3d3d-de-qu-bie.md)
     * hashCode和equals方法的区别与联系
     * 什么是Java序列化，如何实现Java序列化？或者请解释Serializable接口的作用
     * Object类中常见的方法，为什么wait notify会放在Object里边？
