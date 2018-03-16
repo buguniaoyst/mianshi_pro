@@ -255,7 +255,7 @@
     * [说说你对开发运维的实践](qi-ta/shuo-shuo-ni-dui-kai-fa-yun-wei-de-shi-jian.md)
     * [介绍一下工作中的一个你认为最有价值的项目，以及在这个过程中的角色，解决的问题，你觉得你们项目还有哪些不足的地方](qi-ta/jie-shao-yi-xia-gong-zuo-zhong-de-yi-ge-ni-ren-wei-zui-you-jia-zhi-de-xiang-mu-ff0c-yi-ji-zai-zhe-ge-guo-cheng-zhong-de-jiao-se-ff0c-jie-jue-de-wen-ti-ff0c-ni-jue-de-ni-men-xiang-mu-huan-you-na-xie-bu-zu-de-di-fang.md)
   * 软实力
-    * 说说你的优缺点，亮点
+    * [说说你的优缺点，亮点](qi-ta/shuo-shuo-ni-de-you-que-dian-ff0c-liang-dian.md)
     * 说说你最近再开什么书，什么博客，在研究什么新技术，再看哪些开源项目的源代码
     * 说说你觉得最有意义的技术书籍
     * 工作之余做什么事情，平时是如何学习的，怎样提升自己的能力
