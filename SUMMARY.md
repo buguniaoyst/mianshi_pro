@@ -157,7 +157,7 @@
     * [Spring中Bean的作用域，默认的是哪一个](springzhong-bean-de-zuo-yong-yu-ff0c-mo-ren-de-shi-na-yi-ge.md)
     * [说说Spring AOP，Spring AOP实现原理](shuo-shuo-spring-aop-spring-aop-shi-xian-yuan-li.md)
     * [动态代理（CGlib与JDK），优缺点，性能对比，如何选择](dong-tai-dai-li-ff08-cglib-yu-jdk-ff09-ff0c-you-que-dian-ff0c-xing-neng-dui-bi-ff0c-ru-he-xuan-ze.md)
-    * Spring事务实现方式，事务的传播机制，默认的事务类别
+    * [Spring事务实现方式，事务的传播机制，默认的事务类别](springshi-wu-shi-xian-fang-shi-ff0c-shi-wu-de-chuan-bo-ji-zhi-ff0c-mo-ren-de-shi-wu-lei-bie.md)
     * Spring事务底层原理
     * Spring事务失效（事务嵌套），JDK动态代理给Spring事务埋下的坑，可参考《JDK动态代理给Spring事务埋下的坑！》
     * 如何自定义注解实现功能
