@@ -149,7 +149,7 @@
     * [如何保证消息的有序性](ru-he-bao-zheng-xiao-xi-de-you-xu-xing.md)
 * 开源框架和容器
   * SSM/Servlet
-    * Servlet的生命周期
+    * [Servlet的生命周期](servletde-sheng-ming-zhou-qi.md)
     * 转发与重定向的区别
     * BeanFactory和ApplicationContext有什么区别
     * Spring Bean的生命周期
