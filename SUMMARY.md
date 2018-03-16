@@ -107,7 +107,7 @@
     * [从浏览器中输入URL到页面的加载发生了什么？](cong-liulan-qi-zhong-shu-ru-url-dao-ye-mian-de-jia-zai-fa-sheng-le-shi-yao-ff1f.md)
 * 数据存储和消息队列
   * 数据库
-    * MySQL索引使用的注意事项
+    * [MySQL索引使用的注意事项](mysqlsuo-yin-shi-yong-de-zhu-yi-shi-xiang.md)
     * DDL,DML,DCL分别指什么
     * explain命令
     * left join,right join,inner join
