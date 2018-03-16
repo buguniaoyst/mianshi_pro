@@ -221,7 +221,7 @@
     * [如何保证接口的幂等性](ru-he-bao-zheng-jie-kou-de-mi-deng-xing.md)
     * [说说CAP定理，BASE理论](shuo-shuo-cap-ding-li-ff0c-base-li-lun.md)
     * [怎么考虑数据一致性问题](zen-yao-kao-lv-shu-ju-yi-zhi-xing-wen-ti.md)
-    * 说说最终一致性的实现方案
+    * [说说最终一致性的实现方案](shuo-shuo-zui-zhong-yi-zhi-xing-de-shi-xian-fang-an.md)
     * 微服务与SOA的区别
     * 如何拆分服务，水平分割，垂直分割
     * 如何应对微服务的链式调用异常
