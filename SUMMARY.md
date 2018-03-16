@@ -72,7 +72,7 @@
     * [可参考：《Java多线程编程核心技术》](ke-can-kao-ff1a-300a-java-duo-xian-cheng-bian-cheng-he-xin-ji-zhu-300b.md)
   * JVM
     * [JVM运行时内存区域划分](jvmyun-xing-shi-nei-cun-qu-yu-hua-fen.md)
-    * 内存溢出OOM和堆栈溢出SOE的示例及原因，如何排查与解决
+    * [内存溢出OOM和堆栈溢出SOE的示例及原因，如何排查与解决](nei-cun-yi-chu-oom-he-dui-zhan-yi-chu-soe-de-shi-li-ji-yuan-yin-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * 如何判断对象是否可以回收或存活
     * 常见的GC回收算法及其含义
     * 常见的JVM性能监控和故障处理工具类：jps，jstat，jmap，jinfo，jconsole等
