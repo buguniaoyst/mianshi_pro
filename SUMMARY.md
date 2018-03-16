@@ -40,7 +40,7 @@
     * [多线程情况下HashMap死循环的问题](duo-xian-cheng-qing-kuang-xia-hashmap-si-xun-huan-de-wen-ti.md)
     * [HashMap出现Hash DOS攻击的问题](hashmapchu-xian-hash-dos-gong-ji-de-wen-ti.md)
     * [ConcurrentHashMap的工作原理及代码实现，如何统计所有的元素个数](concurrenthashmapde-gong-zuo-yuan-li-ji-dai-ma-shi-xian-ff0c-ru-he-tong-ji-suo-you-de-yuan-su-ge-shu.md)
-    * 手写简单的HashMap
+    * [手写简单的HashMap](shou-xie-jian-dan-de-hashmap.md)
     * 看过哪些Java集合类的源码
   * 进程和线程
     * 线程和进程的概念，并行和并发的概念
