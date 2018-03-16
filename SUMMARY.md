@@ -15,7 +15,7 @@
     * [抽象类和接口有什么区别](javaji-chu/chou-xiang-lei-he-jie-kou-you-shi-yao-qu-bie.md)
     * [说说反射的用途及实现](javaji-chu/shuo-shuo-fan-she-de-yong-tu-ji-shi-xian.md)
     * [说说自定义注解的场景及实现](javaji-chu/shuo-shuo-zi-ding-yi-zhu-jie-de-chang-jing-ji-shi-xian.md)
-    * HTTP请求的GET与POST方式的区别
+    * [HTTP请求的GET与POST方式的区别](javaji-chu/httpqingqiu-de-get-yu-post-fang-shi-de-qu-bie.md)
     * Session与Cookie的区别
     * 列出自己常用的JDK包
     * MVC设计思想
