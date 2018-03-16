@@ -123,7 +123,7 @@
     * [索引类别（B+树索引，全文索引，哈希索引），索引的原理](suo-yin-lei-bie-ff08-b-shu-suo-yin-ff0c-quan-wen-suo-yin-ff0c-ha-xi-suo-yin-ff09-ff0c-suo-yin-de-yuan-li.md)
     * [什么是自适应哈希索引（AHI）](shi-yao-shi-zishi-ying-ha-xi-suo-yin-ff08-ahi.md)
     * [为什么要用B+tree作为MySQL索引的数据结构](wei-shi-yao-yao-yong-b-+-tree-zuo-wei-mysql-suo-yin-de-shu-ju-jie-gou.md)
-    * 聚集索引与非聚集索引的区别
+    * [聚集索引与非聚集索引的区别](ju-ji-suo-yin-yu-fei-ju-ji-suo-yin-de-qu-bie.md)
     * 遇到过索引失效的情况没，什么时候可能会出现，如何解决
     * limit 20000加载很慢怎么解决
     * 如何选择合适的分布式主键方案
