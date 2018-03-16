@@ -88,7 +88,7 @@
     * [常见的单例模式以及各种实现方式的优缺点，哪一个最好，手写常见的单例模式](chang-jian-de-dan-li-mo-shi-yi-ji-ge-zhong-shi-xian-fang-shi-de-you-que-dian-ff0c-na-yi-ge-zui-hao-ff0c-shou-xie-chang-jian-de-dan-li-mo-shi.md)
     * [设计模式在实际场景中的应用](she-ji-mo-shi-zai-shi-ji-chang-jing-zhong-de-ying-yong.md)
     * [Spring中用到了哪些设计模式](springzhong-yong-dao-le-na-xie-she-ji-mo-shi.md)
-    * MyBatis中用到了哪些设计模式
+    * [MyBatis中用到了哪些设计模式](mybatiszhong-yong-dao-le-na-xie-she-ji-mo-shi.md)
     * 你项目中有使用哪些设计模式
     * 说说常用开源框架中设计模式使用分析
     * 动态代理
