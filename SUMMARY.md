@@ -34,7 +34,7 @@
     * [ArrayList和LinkedList的区别](arraylisthe-linkedlist-de-qu-bie.md)
     * [ArrayList和Vector的区别](arraylisthe-vector-de-qu-bie.md)
     * [HashMap和Hashtable的区别](hashmaphe-hashtable-de-qu-bie.md)
-    * HashSet和HashMap的区别
+    * [HashSet和HashMap的区别](hashsethe-hashmap-de-qu-bie.md)
     * HashMap和ConcurrentHashMap的区别
     * HashMap的工作原理及代码实现，什么时候用到红黑树
     * 多线程情况下HashMap死循环的问题
