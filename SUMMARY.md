@@ -235,7 +235,7 @@
   * 设计能力
     * [说说你在项目中使用过的UML图](qi-ta/shuo-shuo-ni-zai-xiang-mu-zhong-shi-yong-guo-de-uml-tu.md)
     * [如何考虑组件化，服务化，系统拆分](qi-ta/ru-he-kao-lv-zu-jian-hua-ff0c-fu-wu-hua-ff0c-xi-tong-chai-fen.md)
-    * 秒杀场景如何设计
+    * [秒杀场景如何设计](qi-ta/miao-sha-chang-jing-ru-he-she-ji.md)
   * 需求分析
     * 你如何对需求原型进行理解和拆分
     * 说说你对功能性需求的理解
