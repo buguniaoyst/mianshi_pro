@@ -178,7 +178,7 @@
     * [Netty内部执行流程](nettynei-bu-zhi-xing-liu-cheng.md)
     * [Netty重连实现](nettyzhong-lian-shi-xian.md)
   * Tomcat
-    * Tomcat的基础架构（Server，Service，Connector，Container）
+    * [Tomcat的基础架构（Server，Service，Connector，Container）](tomcatde-ji-chu-jia-gou-ff08-server-service-connector-container.md)
     * Tomcat如何加载Servlet
     * Pipeline-Value机制
 * 分布式
