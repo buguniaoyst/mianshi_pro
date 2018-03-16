@@ -188,7 +188,7 @@
     * [正向代理和反向代理](zheng-xiang-dai-li-he-fan-xiang-dai-li.md)
     * [Nginx几种常见的负载均衡策略](nginxji-zhong-chang-jian-de-fu-zai-jun-heng-ce-lve.md)
     * [Nginx服务器上的Master和Worker进程分别是什么](nginxfu-wu-qi-shang-demaster-he-worker-jin-cheng-fen-bie-shi-shi-yao.md)
-    * 使用“反向代理”的优点是什么？
+    * [使用“反向代理”的优点是什么？](shi-yong-201c-fan-xiang-dai-li-201d-de-you-dian-shi-shi-yao-ff1f.md)
   * 分布式其他
     * 谈谈业务中使用分布式的场景
     * Session分布式方案
