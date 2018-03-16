@@ -180,7 +180,7 @@
   * Tomcat
     * [Tomcat的基础架构（Server，Service，Connector，Container）](tomcatde-ji-chu-jia-gou-ff08-server-service-connector-container.md)
     * [Tomcat如何加载Servlet](tomcatru-he-jia-zai-servlet.md)
-    * Pipeline-Value机制
+    * [Pipeline-Value机制](pipeline-valueji-zhi.md)
 * 分布式
   * Nginx
     * 请解释什么是10K问题或者知道什么是10K问题吗？
