@@ -93,7 +93,7 @@
     * [说说常用开源框架中设计模式使用分析](shuo-shuo-chang-yong-kai-yuan-kuang-jia-zhong-she-ji-mo-shi-shi-yong-fen-xi.md)
     * 动态代理
   * 数据结构
-    * 树（二叉查找树，平衡二叉树，红黑树，B树，B+树）
+    * [树（二叉查找树，平衡二叉树，红黑树，B树，B+树）](shu-ff08-er-cha-cha-zhao-shu-ff0c-ping-heng-er-cha-shu-ff0c-hong-hei-shu-ff0c-b-shu-ff0c-b-shu-ff09.md)
     * 深度有限算法，广度优先算法
     * 克鲁斯卡尔算法，普林姆算法，迪克拉斯算法
     * 什么是一致性Hash及其原理，Hash环问题
