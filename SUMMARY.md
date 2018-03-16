@@ -258,7 +258,7 @@
     * [说说你的优缺点，亮点](qi-ta/shuo-shuo-ni-de-you-que-dian-ff0c-liang-dian.md)
     * [说说你最近再开什么书，什么博客，在研究什么新技术，再看哪些开源项目的源代码](qi-ta/shuo-shuo-ni-zui-jin-zai-kai-shi-yao-shu-ff0c-shi-yao-bo-ke-ff0c-zai-yan-jiu-shi-yao-xin-ji-zhu-ff0c-zai-kan-na-xie-kai-yuan-xiang-mu-de-yuan-dai-ma.md)
     * [说说你觉得最有意义的技术书籍](qi-ta/shuo-shuo-ni-jue-de-zui-you-yi-yi-de-ji-zhu-shu-ji.md)
-    * 工作之余做什么事情，平时是如何学习的，怎样提升自己的能力
+    * [工作之余做什么事情，平时是如何学习的，怎样提升自己的能力](qi-ta/gong-zuo-zhi-yu-zuo-shi-yao-shi-qing-ff0c-ping-shi-shi-ru-he-xue-xi-de-ff0c-zen-yang-ti-sheng-zi-ji-de-neng-li.md)
     * 说说个人发展方向方面的思考
     * 说说你认为的服务端开发工程师应该具备哪些能力
     * 说说你认为的架构师是什么样的，架构师主要做什么
