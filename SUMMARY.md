@@ -238,7 +238,7 @@
     * [秒杀场景如何设计](qi-ta/miao-sha-chang-jing-ru-he-she-ji.md)
   * 需求分析
     * [你如何对需求原型进行理解和拆分](qi-ta/ni-ru-he-dui-xu-qiu-yuan-xing-jin-xing-li-jie-he-chai-fen.md)
-    * 说说你对功能性需求的理解
+    * [说说你对功能性需求的理解](qi-ta/shuo-shuo-ni-dui-gong-neng-xing-xu-qiu-de-li-jie.md)
     * 说说你对非功能性需求的理解
     * 你针对产品提出哪些交互和改进意见
     * 你如何理解用户痛点
