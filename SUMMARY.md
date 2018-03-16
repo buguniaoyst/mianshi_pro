@@ -116,7 +116,7 @@
     * [数据库的几大范式](shu-ju-ku-de-ji-da-fan-shi.md)
     * [数据库常见的命令](shu-ju-ku-chang-jian-de-ming-ling.md)
     * [说说分库与分表设计](shuo-shuo-fen-ku-yu-fen-biao-she-ji.md)
-    * 分库与分表带来的分布式困境与对应之策（如何解决分布式下的分库分表，全局表？）
+    * [分库与分表带来的分布式困境与对应之策（如何解决分布式下的分库分表，全局表？）](fen-ku-yu-fen-biao-dai-lai-de-fen-bu-shi-kun-jing-yu-dui-ying-zhi-ce-ff08-ru-he-jie-jue-fen-bu-shi-xia-de-fen-ku-fen-biao-ff0c-quan-ju-biao-ff1f-ff09.md)
     * 说说SQL的优化之道
     * MySQL遇到的死锁问题，如何排查与解决
     * 存储引擎的InnoDB与MyISAM区别，优缺点，使用场景
