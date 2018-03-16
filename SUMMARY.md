@@ -248,7 +248,7 @@
     * [你如何进行代码评审](qi-ta/ni-ru-he-jin-xing-dai-ma-ping-shen.md)
     * [说说你对技术与业务的理解](qi-ta/shuo-shuo-ni-dui-ji-zhu-yu-ye-wu-de-li-jie.md)
     * [说说你在项目中遇到感觉最难的Bug，是如何解决的](qi-ta/shuo-shuo-ni-zai-xiang-mu-zhong-yu-dao-gan-jue-zui-nan-de-bug-ff0c-shi-ru-he-jie-jue-de.md)
-    * 说说你在项目中遇到印象最深的困难，怎么解决的
+    * [说说你在项目中遇到印象最深的困难，怎么解决的](qi-ta/shuo-shuo-ni-zai-xiang-mu-zhong-yu-dao-yin-xiang-zui-shen-de-kun-nan-ff0c-zen-yao-jie-jue-de.md)
     * 你是否遇到过CPU100%，如何排查与解决
     * 你是否遇到过内存OOM，如何排查与解决
     * 说说你对敏捷开发的实践
