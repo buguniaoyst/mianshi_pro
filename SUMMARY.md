@@ -22,7 +22,7 @@
     * [JDBC流程](javaji-chu/jdbcliu-cheng.md)
     * [equals与==的区别](javaji-chu/equals4e0e3d3d-de-qu-bie.md)
     * [hashCode和equals方法的区别与联系](javaji-chu/hashcodeheequals-fang-fa-de-qu-bie-yu-lian-xi.md)
-    * 什么是Java序列化，如何实现Java序列化？或者请解释Serializable接口的作用
+    * [什么是Java序列化，如何实现Java序列化？或者请解释Serializable接口的作用](javaji-chu/shi-yao-shi-java-xu-lie-hua-ff0c-ru-he-shi-xian-java-xu-lie-hua-ff1f-huo-zhe-qing-jie-shi-serializable-jie-kou-de-zuo-yong.md)
     * Object类中常见的方法，为什么wait notify会放在Object里边？
     * Java的平台无关性如何体现出来
     * JDK和JRE的区别
