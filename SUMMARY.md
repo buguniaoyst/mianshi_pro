@@ -41,7 +41,7 @@
     * [HashMap出现Hash DOS攻击的问题](hashmapchu-xian-hash-dos-gong-ji-de-wen-ti.md)
     * [ConcurrentHashMap的工作原理及代码实现，如何统计所有的元素个数](concurrenthashmapde-gong-zuo-yuan-li-ji-dai-ma-shi-xian-ff0c-ru-he-tong-ji-suo-you-de-yuan-su-ge-shu.md)
     * [手写简单的HashMap](shou-xie-jian-dan-de-hashmap.md)
-    * 看过哪些Java集合类的源码
+    * [看过哪些Java集合类的源码](kan-guo-na-xie-java-ji-he-lei-de-yuan-ma.md)
   * 进程和线程
     * 线程和进程的概念，并行和并发的概念
     * 创建线程的方式及实现
