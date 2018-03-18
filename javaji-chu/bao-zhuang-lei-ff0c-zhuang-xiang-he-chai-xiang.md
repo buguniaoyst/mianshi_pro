@@ -16,11 +16,13 @@ Byte   Short    Integer   Long     Float    Double   Character   Boolean
 
 使用包装类主要是因为包装类中提供了很多方法帮助我们进行数据类型之间的转换。基本类型时无法做到的。如：将一个字符串类型的数字转换成可进行算术运算的数据类型。
 
-    String strNum = "12";
+```java
+String strNum = "12";
 
-		Integer intNo = Integer.valueOf\(strNum\);
+Integer intNo = Integer.valueOf\(strNum\);
 
-		System.out.println\(intNo+1\);
+ System.out.println\(intNo+1\);
+```
 
 
 
