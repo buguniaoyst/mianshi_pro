@@ -12,3 +12,15 @@ Byte   Short    Integer   Long     Float    Double   Character   Boolean
 
 注：包装类型中还有：BigInteger、BigDecmail没有相对应的基本类型，主要应用于高精度的运算，BigInteger 支持任意精度的整数，BigDecimal支持任意精度带小数点的运算。
 
+### 1.3 包装类型的作用
+
+使用包装类主要是因为包装类中提供了很多方法帮助我们进行数据类型之间的转换。基本类型时无法做到的。如：将一个字符串类型的数字转换成可进行算术运算的数据类型。
+
+    String strNum = "12";
+
+		Integer intNo = Integer.valueOf\(strNum\);
+
+		System.out.println\(intNo+1\);
+
+
+
