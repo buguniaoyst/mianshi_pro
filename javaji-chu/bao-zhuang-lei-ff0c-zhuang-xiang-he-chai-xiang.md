@@ -32,5 +32,5 @@ Integer intNum = Integer.valueOf(strNum);
 
 把包装类赋值给基本类型数据称为：拆箱
 
-
+![](/assets/zhuangxiang_chaixiang.png)
 
