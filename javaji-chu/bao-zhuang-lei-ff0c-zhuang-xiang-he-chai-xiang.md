@@ -10,5 +10,5 @@ byte   short    int       long     float    double    char       boolean
 
 Byte   Short    Integer   Long     Float    Double   Character   Boolean
 
-
+注：包装类型中还有：BigInteger、BigDecmail没有相对应的基本类型，主要应用于高精度的运算，BigInteger 支持任意精度的整数，BigDecimal支持任意精度带小数点的运算。
 
