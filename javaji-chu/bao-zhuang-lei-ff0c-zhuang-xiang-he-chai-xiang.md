@@ -24,7 +24,11 @@ Integer intNum = Integer.valueOf(strNum);
  System.out.println(intNum+1);
 ```
 
-
-
 ## 2. 装箱和拆箱
+
+从JDK1.5以后，可以使用基本类型数据给包装类在赋值。在赋值的底层其实JVM帮助我们完成的类型之间的转换
+
+把基本类型数据赋值给包装类称为：装箱
+
+把包装类赋值给基本类型数据称为：拆箱
 
