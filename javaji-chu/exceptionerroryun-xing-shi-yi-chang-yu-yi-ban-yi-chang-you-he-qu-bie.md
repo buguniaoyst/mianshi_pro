@@ -10,7 +10,7 @@ Exception\(异常类\)：属于异常类。异常属于程序级别的。异常�
 
 ### 1.1 Runtime Exception
 
-运行异常类对应于编译错误，它是指Java程序在运行时产生的由解释器引发的各种异常。运行异常可能出现在任何地方，且出现频率很高，因此为了避免巨大的系统资源开销，编译器不对异常进行检查。所以Java语言中的运行异常不一定被捕获。出现运行错误往往表示代码有错误，如：java.lang.ArithmeticException、java.lang.ArrayIndexOutOfBoundsException等
+运行异常类对应于编译错误，它是指Java程序在运行时产生的由解释器引发的各种异常。运行异常可能出现在任何地方，且出现频率很高，因此为了避免巨大的系统资源开销，编译器不对异常进行检查。所以Java语言中的运行异常不一定被捕获。出现运行错误往往表示代码有错误，如：java.lang.ArithmeticException、java.lang.ArrayIndexOutOfBoundsException等。
 
 ### 1.2 Checked Exception
 
