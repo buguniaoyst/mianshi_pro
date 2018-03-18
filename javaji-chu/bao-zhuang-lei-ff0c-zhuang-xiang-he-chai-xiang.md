@@ -19,9 +19,9 @@ Byte   Short    Integer   Long     Float    Double   Character   Boolean
 ```java
 String strNum = "12";
 
-Integer intNo = Integer.valueOf\(strNum\);
+Integer intNum = Integer.valueOf(strNum);
 
- System.out.println\(intNo+1\);
+ System.out.println(intNum+1);
 ```
 
 
