@@ -27,7 +27,7 @@
     * [Java的平台无关性如何体现出来](javaji-chu/javade-ping-tai-wu-guan-xing-ru-he-ti-xian-chu-lai.md)
     * [JDK和JRE的区别](javaji-chu/jdkhe-jre-de-qu-bie.md)
     * [Java8有哪些新特性](javaji-chu/java8you-na-xie-xin-te-xing.md)
-  * 常见集合
+  * [常见集合](chang-jian-ji-he.md)
     * [List和Set区别](listhe-set-qu-bie.md)
     * [Set和hashCode以及equals方法的联系](sethe-hashcode-yi-ji-equals-fang-fa-de-lian-xi.md)
     * [List和Map的区别](listhe-map-de-qu-bie.md)
@@ -42,7 +42,7 @@
     * [ConcurrentHashMap的工作原理及代码实现，如何统计所有的元素个数](concurrenthashmapde-gong-zuo-yuan-li-ji-dai-ma-shi-xian-ff0c-ru-he-tong-ji-suo-you-de-yuan-su-ge-shu.md)
     * [手写简单的HashMap](shou-xie-jian-dan-de-hashmap.md)
     * [看过哪些Java集合类的源码](kan-guo-na-xie-java-ji-he-lei-de-yuan-ma.md)
-  * 进程和线程
+  * [进程和线程](jin-cheng-he-xian-cheng.md)
     * [线程和进程的概念，并行和并发的概念](xian-cheng-he-jin-cheng-de-gai-nian-ff0c-bing-xing-he-bing-fa-de-gai-nian.md)
     * [创建线程的方式及实现](chuang-jian-xian-cheng-de-fang-shi-ji-shi-xian.md)
     * [进程间通信的方式](jin-cheng-jian-tong-xin-de-fang-shi.md)
@@ -54,7 +54,7 @@
     * [线程池的几种实现方式](xian-cheng-chi-de-ji-zhong-shi-xian-fang-shi.md)
     * [线程的生命周期，状态是如何转移的](xian-cheng-de-sheng-ming-zhou-qi-ff0c-zhuang-tai-shi-ru-he-zhuan-yi-de.md)
     * 可参考：《Java多线程编程核心技术》
-  * 锁机制
+  * [锁机制](suo-ji-zhi.md)
     * [说说线程安全问题，什么是线程安全，如何保证线程安全](shuo-shuo-xian-cheng-an-quan-wen-ti-ff0c-shi-yao-shi-xian-cheng-an-quan-ff0c-ru-he-bao-zheng-xian-cheng-an-quan.md)
     * [重入锁的概念，重入锁为什么可以防止死锁](zhong-ru-suo-de-gai-nian-ff0c-zhong-ru-suo-wei-shi-yao-ke-yi-fang-zhi-si-suo.md)
     * [产生死锁的四个条件（互斥，请求与保持，不剥夺，循环等待）](chan-sheng-si-suo-de-si-ge-tiao-jian-ff08-hu-chi-ff0c-qing-qiu-yu-bao-chi-ff0c-bu-bo-duo-ff0c-xun-huan-deng-dai-ff09.md)
@@ -82,7 +82,7 @@
     * [类加载的过程：加载，验证，准备，解析，初始化](lei-jia-zai-de-guo-cheng-ff1a-jia-zai-ff0c-yan-zheng-ff0c-zhun-bei-ff0c-jie-xi-ff0c-chu-shi-hua.md)
     * [强引用，软引用，弱引用，虚引用](qiang-yin-yong-ff0c-ruan-yin-yong-ff0c-ruo-yin-yong-ff0c-xu-yin-yong.md)
     * [Java内存模型JMM](javanei-cun-mo-xing-jmm.md)
-  * 设计模式
+  * [设计模式](she-ji-mo-shi.md)
     * [常见的设计模式](chang-jian-de-she-ji-mo-shi.md)
     * [设计模式的六大原则及含义](she-ji-mo-shi-de-liu-da-yuan-ze-ji-han-yi.md)
     * [常见的单例模式以及各种实现方式的优缺点，哪一个最好，手写常见的单例模式](chang-jian-de-dan-li-mo-shi-yi-ji-ge-zhong-shi-xian-fang-shi-de-you-que-dian-ff0c-na-yi-ge-zui-hao-ff0c-shou-xie-chang-jian-de-dan-li-mo-shi.md)
@@ -92,7 +92,7 @@
     * [你项目中有使用哪些设计模式](ni-xiang-mu-zhong-you-shi-yong-na-xie-she-ji-mo-shi.md)
     * [说说常用开源框架中设计模式使用分析](shuo-shuo-chang-yong-kai-yuan-kuang-jia-zhong-she-ji-mo-shi-shi-yong-fen-xi.md)
     * 动态代理
-  * 数据结构
+  * [数据结构](shu-ju-jie-gou.md)
     * [树（二叉查找树，平衡二叉树，红黑树，B树，B+树）](shu-ff08-er-cha-cha-zhao-shu-ff0c-ping-heng-er-cha-shu-ff0c-hong-hei-shu-ff0c-b-shu-ff0c-b-shu-ff09.md)
     * [深度有限算法，广度优先算法](shen-du-you-xian-suan-fa-ff0c-guang-du-you-xian-suan-fa.md)
     * [克鲁斯卡尔算法，普林姆算法，迪克拉斯算法](ke-lu-si-qia-er-suan-fa-ff0c-pu-lin-mu-suan-fa-ff0c-di-ke-la-si-suan-fa.md)
@@ -266,6 +266,4 @@
     * [说说你所理解的技术专家](qi-ta/shuo-shuo-ni-suo-li-jie-de-ji-zhu-zhuan-jia.md)
 * [Java面试通关要点来源说明](javamian-shi-tong-guan-yao-dian-lai-yuan-shuo-ming.md)
   * [Java面试通关要点汇总来源](javamian-shi-tong-guan-yao-dian-hui-zong-lai-yuan.md)
-
-
 
