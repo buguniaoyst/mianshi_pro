@@ -2,10 +2,10 @@
 
 Java语言为我们提供了字符串String，能让我们方便地使用字符串类型的数据。但是，在实际应用中单纯地使用String类无法满足我们的需求，于是又衍生出了StringBuffer和StringBuilder。它们三者之间的区别：
 
-* String ：字符串常量
-* StringBuffer：字符串变量（线程安全）是一个容器
+* String ：字符串常量；
+* StringBuffer：字符串变量（线程安全）是一个容器；
 
-* StringBuilder ：字符串变量（非线程安全）
+* StringBuilder ：字符串变量（非线程安全）；
 
 ## 1. String
 
