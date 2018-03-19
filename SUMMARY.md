@@ -253,7 +253,7 @@
     * [你是否遇到过内存OOM，如何排查与解决](qi-ta/ni-shi-fou-yu-dao-guo-nei-cun-oom-ff0c-ru-he-pai-cha-yu-jie-jue.md)
     * [说说你对敏捷开发的实践](qi-ta/shuo-shuo-ni-dui-min-jie-kai-fa-de-shi-jian.md)
     * [说说你对开发运维的实践](qi-ta/shuo-shuo-ni-dui-kai-fa-yun-wei-de-shi-jian.md)
-    * [介绍一下工作中的一个你认为最有价值的项目，以及在这个过程中的角色，解决的问题，你觉得你们项目还有哪些不足的地方](qi-ta/jie-shao-yi-xia-gong-zuo-zhong-de-yi-ge-ni-ren-wei-zui-you-jia-zhi-de-xiang-mu-ff0c-yi-ji-zai-zhe-ge-guo-cheng-zhong-de-jiao-se-ff0c-jie-jue-de-wen-ti-ff0c-ni-jue-de-ni-men-xiang-mu-huan-you-na-xie-bu-zu-de-di-fang.md)
+    * [介绍一下工作中的最有价值的项目](qi-ta/jie-shao-yi-xia-gong-zuo-zhong-de-yi-ge-ni-ren-wei-zui-you-jia-zhi-de-xiang-mu-ff0c-yi-ji-zai-zhe-ge-guo-cheng-zhong-de-jiao-se-ff0c-jie-jue-de-wen-ti-ff0c-ni-jue-de-ni-men-xiang-mu-huan-you-na-xie-bu-zu-de-di-fang.md)
   * 软实力
     * [说说你的优缺点，亮点](qi-ta/shuo-shuo-ni-de-you-que-dian-ff0c-liang-dian.md)
     * [说说你最近再开什么书，什么博客，在研究什么新技术，再看哪些开源项目的源代码](qi-ta/shuo-shuo-ni-zui-jin-zai-kai-shi-yao-shu-ff0c-shi-yao-bo-ke-ff0c-zai-yan-jiu-shi-yao-xin-ji-zhu-ff0c-zai-kan-na-xie-kai-yuan-xiang-mu-de-yuan-dai-ma.md)
