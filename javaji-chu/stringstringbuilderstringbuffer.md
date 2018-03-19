@@ -40,13 +40,11 @@ public final class String implements Serializable, Comparable<String>, CharSeque
     private static final char REPLACEMENT_CHAR = (char) 0xfffd;
 ```
 
-## 2. StringBuffer
+## 2. StringBuffer\(字符串变量-线程安全\)
 
 StringBuffer是java提供的一个可以用来存储字符的容器。（其实就是在StringBuffer类中有一个内部的字符数组，这个字符数组是可变长度的数组）
 
 （注意：StringBuffer这个容器中只能存储字符数据，存储到StringBuffer中的任何数据都会转为字符数据）
-
-
 
 ```java
 public final class StringBuffer
