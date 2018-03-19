@@ -7,9 +7,7 @@ Java语言为我们提供了字符串String，能让我们方便地使用字符�
 
 * StringBuilder ：字符串变量（非线程安全）；
 
-## 1. String
-
-
+## 1. String（字符串常量）
 
 ```java
 /** Strings are constant; their values cannot be changed after they
