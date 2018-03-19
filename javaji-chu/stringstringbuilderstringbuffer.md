@@ -30,6 +30,29 @@ String类在java.lang包下，被final修饰，不能够被其他类继承。
 
 ## 2. StringBuffer
 
+```java
+public final class StringBuffer
+    extends AbstractStringBuilder
+    implements java.io.Serializable, Appendable, CharSequence
+{
+    /**
+     * Constructs a string buffer with no characters in it and an
+     * initial capacity of 16 characters.
+     */
+    public StringBuffer() {
+        super(16);
+    }
+    public synchronized StringBuffer append(int i) {
+        super.append(i);
+        return this;
+    }
+    public synchronized StringBuffer delete(int start, int end) {
+        super.delete(start, end);
+        return this;
+    }
+}
+```
+
 ## 3. StringBuilder
 
 
