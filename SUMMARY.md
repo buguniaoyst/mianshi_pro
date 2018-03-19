@@ -256,7 +256,7 @@
     * [介绍一下工作中的最有价值的项目](qi-ta/jie-shao-yi-xia-gong-zuo-zhong-de-yi-ge-ni-ren-wei-zui-you-jia-zhi-de-xiang-mu-ff0c-yi-ji-zai-zhe-ge-guo-cheng-zhong-de-jiao-se-ff0c-jie-jue-de-wen-ti-ff0c-ni-jue-de-ni-men-xiang-mu-huan-you-na-xie-bu-zu-de-di-fang.md)
   * 软实力
     * [说说你的优缺点，亮点](qi-ta/shuo-shuo-ni-de-you-que-dian-ff0c-liang-dian.md)
-    * [说说你最近再开什么书，什么博客，在研究什么新技术，再看哪些开源项目的源代码](qi-ta/shuo-shuo-ni-zui-jin-zai-kai-shi-yao-shu-ff0c-shi-yao-bo-ke-ff0c-zai-yan-jiu-shi-yao-xin-ji-zhu-ff0c-zai-kan-na-xie-kai-yuan-xiang-mu-de-yuan-dai-ma.md)
+    * [说说你最近再开什么书，什么博客](qi-ta/shuo-shuo-ni-zui-jin-zai-kai-shi-yao-shu-ff0c-shi-yao-bo-ke-ff0c-zai-yan-jiu-shi-yao-xin-ji-zhu-ff0c-zai-kan-na-xie-kai-yuan-xiang-mu-de-yuan-dai-ma.md)
     * [说说你觉得最有意义的技术书籍](qi-ta/shuo-shuo-ni-jue-de-zui-you-yi-yi-de-ji-zhu-shu-ji.md)
     * [工作之余做什么事情，平时是如何学习的，怎样提升自己的能力](qi-ta/gong-zuo-zhi-yu-zuo-shi-yao-shi-qing-ff0c-ping-shi-shi-ru-he-xue-xi-de-ff0c-zen-yang-ti-sheng-zi-ji-de-neng-li.md)
     * [说说个人发展方向方面的思考](qi-ta/shuo-shuo-ge-ren-fa-zhan-fang-xiang-fang-mian-de-si-kao.md)
@@ -266,4 +266,6 @@
     * [说说你所理解的技术专家](qi-ta/shuo-shuo-ni-suo-li-jie-de-ji-zhu-zhuan-jia.md)
 * [Java面试通关要点来源说明](javamian-shi-tong-guan-yao-dian-lai-yuan-shuo-ming.md)
   * [Java面试通关要点汇总来源](javamian-shi-tong-guan-yao-dian-hui-zong-lai-yuan.md)
+
+
 
