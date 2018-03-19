@@ -9,19 +9,7 @@ Java语言为我们提供了字符串String，能让我们方便地使用字符�
 
 ## 1. String
 
-String类在java.lang包下，被final修饰，不能够被其他类继承。
 
-通过API的查阅，我们可以了解到：
-
-* 1，  String是一个字符串类，只要被””包含的内容都属于String类的实例
-
-* 2，  String实例引用的都是字符串常量，换句来讲，就是String字符串在初始化完后不能修改其原值\(原有数据\)
-
-String类的创建：
-
-* 1，  String  str = new String\(“字符串”\);
-
-* 2，  String  str = ”字符串”;
 
 ```java
 /** Strings are constant; their values cannot be changed after they
@@ -40,9 +28,21 @@ public final class String implements Serializable, Comparable<String>, CharSeque
     private static final char REPLACEMENT_CHAR = (char) 0xfffd;
 ```
 
+String类在java.lang包下，被final修饰，不能够被其他类继承。
+
+通过API的查阅，我们可以了解到：
+
+* 1，  String是一个字符串类，只要被””包含的内容都属于String类的实例
+
+* 2，  String实例引用的都是字符串常量，换句来讲，就是String字符串在初始化完后不能修改其原值\(原有数据\)
+
+String类的创建：
+
+* 1，  String  str = new String\(“字符串”\);
+
+* 2，  String  str = ”字符串”;
+
 ## 2. StringBuffer\(字符串变量-线程安全\)
-
-
 
 ```java
 public final class StringBuffer
