@@ -69,7 +69,7 @@ public final class StringBuffer
 }
 ```
 
-## 3. StringBuilder
+## 3. StringBuilder（字符串变量-线程不安全）
 
 ```java
 public final class StringBuilder 
