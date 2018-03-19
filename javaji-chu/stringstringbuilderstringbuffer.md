@@ -56,7 +56,9 @@ public final class StringBuffer
 ## 3. StringBuilder
 
 ```java
-public final class StringBuilder extends AbstractStringBuilder implements java.io.Serializable, Appendable, CharSequence {
+public final class StringBuilder 
+    extends AbstractStringBuilder 
+    implements java.io.Serializable, Appendable, CharSequence {
    public StringBuilder() {
         super(16);
    }
