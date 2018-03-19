@@ -71,6 +71,16 @@ public final class StringBuffer
 
 ## 3. StringBuilder（字符串变量-线程不安全）
 
+StringBuilder类中的方法和StringBuffer类中的方法完全一样。
+
+StringBuffer和StringBuilder的区别：
+
+* StringBuffer属于线程安全的字符缓冲区对象。 在使用时因为线程安全，所以效率比较低。效率低的原因是因为StringBuffer在操作时都会去检查数据同步。在开发中，如果对线程安全有要求时，使用StringBuffer类
+
+* StringBuilder属于线程不安全的的字符缓冲区对象。在使用时因为线程不安全所以效率比较高。不会去检查数据同步。在开发中，如果对线程安全没有要求时，使用StringBuilder类
+
+
+
 ```java
 public final class StringBuilder 
     extends AbstractStringBuilder 
