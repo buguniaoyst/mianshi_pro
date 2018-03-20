@@ -146,5 +146,26 @@ setName.invoke(u, "张三");
 System.out.println(u);
 ```
 
+#### 2.3.4获取反射类中私有的成员方法
+
+* getDeclaredMethod\(String name,Class&lt;?&gt;...parameterType\)：获取指定方法名的成员方法；
+* getDeclaredMethods\(\)：获取所有的成员方法；
+
+```java
+/**
+* 1.通过静态方法Class.forName("")方法获取；
+* 2.通过成员方法名获取指定的成员方法；
+*/
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+User u = (User) userClass1.newInstance();
+
+//获取指定非私有的成员变量
+Method setNameMethod = userClass1.getDeclaredMethod("setName2", String.class);
+//取消安全检查
+setNameMethod.setAccessible(true);
+setNameMethod.invoke(u,"张三");
+System.out.println(u);
+```
+
 
 
