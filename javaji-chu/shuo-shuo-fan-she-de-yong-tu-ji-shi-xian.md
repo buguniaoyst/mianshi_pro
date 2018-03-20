@@ -49,5 +49,19 @@ JAVA反射机制是在运行状态中，对于任意一个类，都能够知道�
 * 通过Class对象的newInstance\(\)方法调用默认构造实例化对象；
 * 手动获取构造方法，然后通过构造方法的newInstance\(\)方法实例化对象；
 
+```java
+/**
+ * 1.通过静态方法Class.forName("")方法获取
+ * 2.通过newInstance()方法来创建User类的对象
+ */
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+System.out.println(userClass1);
+
+User u = (User) userClass1.newInstance();
+u.setName("张三");
+u.setAge(12);
+System.out.println(u);
+```
+
 
 
