@@ -112,5 +112,15 @@ public @interface PhoneName {
 }
 ```
 
+#### 3.2.2 使用注解
+
+```java
+public class MyPhone {
+    @PhoneName(value = "华为手机")
+    private String name;
+}
+
+```
+
 
 
