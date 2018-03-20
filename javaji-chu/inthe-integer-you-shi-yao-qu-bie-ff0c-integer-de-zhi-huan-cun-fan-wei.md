@@ -14,3 +14,17 @@ Integer的值缓存范围是：-128~127
 
 也就是说这之间的Integer值进行==比较时只是进行int原生数据类型的数值比较，而超出-128~127的范围，进行==比较时是进行地址及数值比较。
 
+如代码1所示：
+
+```java
+	Integer a = 127;
+	Integer b = 127;
+	System.out.println(a == b);//true
+		
+	Integer c = 128;
+	Integer d = 128;
+	System.out.println(c == d);//false
+```
+
+
+
