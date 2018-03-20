@@ -130,7 +130,21 @@ System.out.println(u);
 * getMethod\(String name,Class&lt;?&gt;... paeameterTypes\)：name为方法名，第二个参数为方法中需要的参数类型，返回一个Method对象；
 * getMethods\(\)：返回反射类中的所有非私有，非静态的方法；
 
+```java
+/**
+* 1.通过静态方法Class.forName("")方法获取；
+* 2.通过成员方法名获取指定的成员方法；
+*/
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+User u = (User) userClass1.newInstance();
 
+//获取指定非私有的成员变量
+Method setName = userClass1.getMethod("setName", String.class);
+setName.invoke(u, "张三");
+
+//打印输出
+System.out.println(u);
+```
 
 
 
