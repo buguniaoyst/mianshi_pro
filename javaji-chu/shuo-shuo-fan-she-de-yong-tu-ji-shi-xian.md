@@ -63,5 +63,23 @@ u.setAge(12);
 System.out.println(u);
 ```
 
+通过构造方法实例化对象：
+
+```java
+/**
+ * 1.通过静态方法Class.forName("")方法获取
+ * 2.获取这个类的构造方法，然后通过构造方法实例化对象
+ */
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+System.out.println(userClass1);
+
+//获取构造方法
+Constructor<?> constructor = userClass1.getConstructors()[0];
+User u = (User) constructor.newInstance();
+u.setName("张三");
+u.setAge(13);
+System.out.println(u);
+```
+
 
 
