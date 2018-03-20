@@ -90,5 +90,19 @@ System.out.println(u);
 * getField\(String filedName\)：通过成员变量名获取指定非私有的成员变量，返回Field对象；
 * getFields\(\)：获取的是反射类下所有的非私有的成员变量；
 
+```java
+/**
+ * 1.通过静态方法Class.forName("")方法获取；
+ * 2.通过成员变量名获取指定的成员变量；
+ */
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+User u = (User) userClass1.newInstance();
+
+//获取指定非私有的成员变量
+Field stuNo = userClass1.getField("stuNo");
+stuNo.set(u,"1001");
+System.out.println(u);
+```
+
 
 
