@@ -104,5 +104,26 @@ stuNo.set(u,"1001");
 System.out.println(u);
 ```
 
+#### 2.3.2 获取私有的成员变量
+
+* getDeclaredField\(String name\)：通过成员变量名获取指定的成员变量，返回Field对象；
+* getDeclaredFields\(\)：获取所有的成员变量；
+
+```java
+/**
+ * 1.通过静态方法Class.forName("")方法获取；
+ * 2.通过成员变量名获取指定的成员变量；
+ */
+Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+User u = (User) userClass1.newInstance();
+
+//获取指定非私有的成员变量
+Field stuName = userClass1.getDeclaredField("name");
+//取消java程序中默认的权限检查
+stuName.setAccessible(true);
+stuName.set(u,"张三");
+System.out.println(u);
+```
+
 
 
