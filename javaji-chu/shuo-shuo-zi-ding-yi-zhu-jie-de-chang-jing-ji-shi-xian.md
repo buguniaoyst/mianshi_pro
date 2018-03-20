@@ -119,6 +119,29 @@ public class MyPhone {
     @PhoneName(value = "华为手机")
     private String name;
 }
+```
+
+#### 3.2.3 解析注解
+
+```java
+public class AnnUtil {
+    /**
+     * 解析注解的方法
+     *
+     * @param clazz
+     */
+    public static void getPhoneInfo(Class<?> clazz) {
+        Field[] fields = clazz.getDeclaredFields();
+        for (Field field : fields) {
+            if (field.isAnnotationPresent(PhoneName.class)) {
+                PhoneName phoneName =  field.getAnnotation(PhoneName.class);
+                String pName = phoneName.value();
+                System.out.println("手机的名字："+pName);
+            }
+        }
+
+    }
+}
 
 ```
 
