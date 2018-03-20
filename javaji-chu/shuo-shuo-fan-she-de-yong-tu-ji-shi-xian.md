@@ -85,5 +85,10 @@ System.out.println(u);
 
 ### 2.3 获取反射类中的成员变量
 
+#### 2.3.1 获取非私有的成员变量
+
+* getField\(String filedName\)：通过成员变量名获取指定非私有的成员变量，返回Field对象；
+* getFields\(\)：获取的是反射类下所有的非私有的成员变量；
+
 
 
