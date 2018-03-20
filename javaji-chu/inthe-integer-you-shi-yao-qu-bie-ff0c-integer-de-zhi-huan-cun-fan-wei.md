@@ -17,14 +17,14 @@ Integer的值缓存范围是：-128~127
 如代码1所示：
 
 ```java
-	Integer a = 127;
-	Integer b = 127;
-	System.out.println(a == b);//true
-		
-	Integer c = 128;
-	Integer d = 128;
-	System.out.println(c == d);//false
+    Integer a = 127;
+    Integer b = 127;
+    System.out.println(a == b);//true
+
+    Integer c = 128;
+    Integer d = 128;
+    System.out.println(c == d);//false
 ```
 
-
+IntegerCache有一个静态的Integer数组，在类加载时就将-128 到 127 的Integer对象创建了，并保存在cache数组中，一旦程序调用valueOf 方法，如果i的值是在-128 到 127 之间就直接在cache缓存数组中去取Integer对象。
 
