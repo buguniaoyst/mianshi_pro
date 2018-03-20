@@ -127,5 +127,10 @@ System.out.println(u);
 
 #### 2.3.3 获取反射类中非私有，非静态的成员方法
 
+* getMethod\(String name,Class&lt;?&gt;... paeameterTypes\)：name为方法名，第二个参数为方法中需要的参数类型，返回一个Method对象；
+* getMethods\(\)：返回反射类中的所有非私有，非静态的方法；
+
+
+
 
 
