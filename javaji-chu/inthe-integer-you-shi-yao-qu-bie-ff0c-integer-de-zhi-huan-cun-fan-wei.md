@@ -2,3 +2,7 @@
 
 ## 1.int与Integer的区别
 
+## 2.Integer的值缓存范围
+
+
+
