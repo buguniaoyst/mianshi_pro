@@ -142,6 +142,16 @@ public class AnnUtil {
 
     }
 }
+```
+
+#### 3.2.4测试
+
+```java
+public class AnnTest {
+    public static void main(String[] args) {
+        AnnUtil.getPhoneInfo(MyPhone.class);
+    }
+}
 
 ```
 
