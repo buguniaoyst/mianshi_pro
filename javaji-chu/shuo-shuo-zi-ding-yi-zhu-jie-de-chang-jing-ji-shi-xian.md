@@ -54,7 +54,7 @@ Java5.0定义了4个元注解。接下来，分别分析这四个元注解：
 
 1. CONSTRUCTOR:用于描述构造方法
 
-2. FIELD:用于描述域
+2. FIELD:用于描述成员变量
 
 3. LOCAL\_VARIABLE:用于描述局部变量
 
@@ -97,6 +97,20 @@ Java5.0定义了4个元注解。接下来，分别分析这四个元注解：
 使用示例：@Inherited
 
 ### 3.2 自定义注解实现
+
+#### 3.2.1 创建一个注解
+
+```java
+//在成员变量上使用
+@Target(ElementType.FIELD)
+//在代码运行期间起作用
+@Retention(RetentionPolicy.RUNTIME)
+//注解将被包含在javadoc中
+@Documented
+public @interface PhoneName {
+    String value() default "";
+}
+```
 
 
 
