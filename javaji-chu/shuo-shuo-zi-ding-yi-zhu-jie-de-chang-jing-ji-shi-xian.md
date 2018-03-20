@@ -6,8 +6,6 @@ Java 注解就像修饰符一样，可以用于从java代码中抽取文档、�
 
 注解的工作原理就是，先使用注解修饰java代码，然后另一块叫做注解处理器的代码会解析这段注解和被修饰的代码并做相应的处理。
 
-
-
 ## 2.JDK内置的标准注解
 
 JavaSE中内置了三个标准注解，都是定义在java.lang中，它们是：
@@ -32,20 +30,6 @@ JavaSE中内置了三个标准注解，都是定义在java.lang中，它们是�
 
 @SuppressWarnings有一些参数用于表示特定的警告：
 
-deprecation:不要给出“不赞成使用的类或方法的警告”；
-
-unchecked:不要给出“类型转换时警告”；
-
-fallthrough:不要给出”switch语句块没有break的警告”；
-
-path:不要给出“不存在的路径”的警告；
-
-serial:不要给出“可序列化类缺少serialVersionUID”的警告；
-
-finally:不要给出“finally语句块不能正常完成”的警告；
-
-all:不要给出以上所有情况的警告。
-
 ## 3.自定义注解
 
 java允许我们自己定义注解，它提供了元注解用于自定义注解。
@@ -66,33 +50,31 @@ Java5.0定义了4个元注解。接下来，分别分析这四个元注解：
 
 #### 3.1.1 @Target
 
-@Target用来说明自定义注解可以用在什么地方，其ElementType取值有： 
+@Target用来说明自定义注解可以用在什么地方，其ElementType取值有：
 
-1. CONSTRUCTOR:用于描述构造器 
+1. CONSTRUCTOR:用于描述构造方法
 
-2. FIELD:用于描述域 
+2. FIELD:用于描述域
 
-3. LOCAL\_VARIABLE:用于描述局部变量 
+3. LOCAL\_VARIABLE:用于描述局部变量
 
-4. METHOD:用于描述方法 
+4. METHOD:用于描述方法
 
-5. PACKAGE:用于描述包 
+5. PACKAGE:用于描述包
 
-6. PARAMETER:用于描述参数 
+6. PARAMETER:用于描述参数
 
 7. TYPE:用于描述类、接口\(包括注解类型\) 或enum声明
 
 使用示例：@Target\(ElementType.FIELD\)
 
-
-
 #### 3.1.2 @Retention
 
-@Retention用来描述自定义注解的生命周期，其RetentionPoicy取值有： 
+@Retention用来描述自定义注解的生命周期，其RetentionPoicy取值有：
 
-1. SOURCE:在源文件中有效 
+1. SOURCE:在源文件中有效
 
-2. CLASS:在class文件中有效 
+2. CLASS:在class文件中有效
 
 3. RUNTIME:在运行时有效
 
