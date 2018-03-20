@@ -10,3 +10,23 @@ JAVA反射机制是在运行状态中，对于任意一个类，都能够知道�
 
 ### 2.1获取Class对象的方法
 
+```java
+        /**
+         * 获取User类的Class对象的三种方式：
+         * 1.通过静态方法Class.forName("")方法获取
+         * 2.通过类自身来获取
+         * 3.通过Object类中的getClass方法获取
+         */
+        Class<?> userClass1 = Class.forName("com.heima.classdemo.User");
+        System.out.println(userClass1);
+
+        Class<User> userClass2 = User.class;
+        System.out.println(userClass2);
+
+        User u = new User();
+        Class<? extends User> uClass3 = u.getClass();
+        System.out.println(uClass3);
+```
+
+
+
