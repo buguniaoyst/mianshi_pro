@@ -38,5 +38,11 @@ GET请求的特点：
 
 POST请求的参数被包含在请求体中发送：
 
-    
+```
+POST https://www.baidu.com HTTP/1.1
+Host: baidu.com
+name1=value1&name2=value2
+```
+
+
 
