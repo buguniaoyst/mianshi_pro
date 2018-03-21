@@ -16,7 +16,9 @@ HTTP 的工作方式是客户机与服务器之间的 “请求-应答” 协议
 
 GET请求将请求的参数拼接在URL后面发送的，如：
 
-    https://www.baidu.com/s?ie=utf-8&f=8&rsv\_bp=0&rsv\_idx=1&tn=baidu&wd=http%E8%AF%B7%E6%B1%82%E7%9A%84get%E5%92%8Cpost%E7%9A%84%E5%8C%BA%E5%88%AB&rsv\_pq=bb079ba2000415fa&rsv\_t=e26fIR5aOkTTl5akivBOMWv0Nx20oIbpCe%2BF9qm4Ol1UHcVFGm3c28OMVxg&rqlang=cn&rsv\_enter=1&rsv\_sug3=3&rsv\_sug1=3&rsv\_sug7=100
+```
+https://www.baidu.com/s?ie=utf-8&f=8&rsv\_sug3=3&rsv\_sug1=3&rsv\_sug7=100
+```
 
 
 
