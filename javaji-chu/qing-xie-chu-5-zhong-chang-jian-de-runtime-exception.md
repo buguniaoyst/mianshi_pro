@@ -1,5 +1,7 @@
 # 请写出5中常见的Runtime Exception
 
+---
+
 NullPointerException - 空指针引用异常
 
 ClassCastException - 类型强制转换异常。
@@ -19,6 +21,4 @@ NumberFormatException - 数字格式异常
 SecurityException - 安全异常
 
 UnsupportedOperationException - 不支持的操作异常
-
-
 
