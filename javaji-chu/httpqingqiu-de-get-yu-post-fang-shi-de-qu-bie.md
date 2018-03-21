@@ -14,10 +14,10 @@ HTTP 的工作方式是客户机与服务器之间的 “请求-应答” 协议
 
 ## 2.GET请求
 
-GET请求将请求的参数拼接在URL后面发送的，如：
+GET请求将请求的参数拼接在URL后面发送的，如：在百度上搜索之后
 
 ```
-https://www.baidu.com/s?ie=utf-8&f=8&rsv\_sug3=3&rsv\_sug1=3&rsv\_sug7=100
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=github
 ```
 
 
