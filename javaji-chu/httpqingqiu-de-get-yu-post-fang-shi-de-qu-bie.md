@@ -20,5 +20,17 @@ GET请求将请求的参数拼接在URL后面发送的，如：在百度上搜�
 https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=github
 ```
 
+GET请求的特点：
 
+GET 请求可以被缓存
+
+GET 请求保留在浏览器历史记录中
+
+GET 请求可被收藏为书签
+
+GET 请求不应在处理敏感数据时使用（即通常所说的数据不加密）
+
+GET 请求有长度限制
+
+GET 请求只应当用于从服务器取回数据
 
