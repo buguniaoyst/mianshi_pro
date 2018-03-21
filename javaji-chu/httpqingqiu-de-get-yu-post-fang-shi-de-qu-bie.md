@@ -44,5 +44,17 @@ Host: baidu.com
 name1=value1&name2=value2
 ```
 
+有关 POST 请求的一些特点：
+
+* POST 请求不会被缓存
+
+* POST 请求不会保留在浏览器历史记录中
+
+* POST 请求不能被收藏为书签
+
+* POST 请求对数据长度没有要求
+
+* POST 请求可以用于处理敏感数据
+
 
 
